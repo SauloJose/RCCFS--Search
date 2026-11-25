@@ -1,0 +1,2158 @@
+TY  - JOUR
+TI  - Multi-Agent Deep Reinforcement Learning for Task Offloading in UAV-Assisted Mobile Edge Computing
+AU  - Zhao, N
+AU  - Ye, ZY
+AU  - Pei, YY
+AU  - Liang, YC
+AU  - Niyato, D
+PY  - 2022
+DA  - 2022-09
+T2  - IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+JO  - IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+VL  - 21
+IS  - 9
+SP  - 6949
+EP  - 6960
+DO  - 10.1109/TWC.2022.3153316
+UR  - https://www.scopus.com/pages/publications/85125735198?origin=resultslist
+SN  - 1536-1276
+AB  - Mobile edge computing can effectively reduce service latency and improve service quality by offloading computation-intensive tasks to the edges of wireless networks. Due to the characteristic of flexible deployment, wide coverage and reliable wireless communication, unmanned aerial vehicles (UAVs) have been employed as assisted edge clouds (ECs) for large-scale sparely-distributed user equipment. Considering the limited computation and energy capacities of UAVs, a collaborative mobile edge computing system with multiple UAVs and multiple ECs is investigated in this paper. The task offloading issue is addressed to minimize the sum of execution delays and energy consumptions by jointly designing the trajectories, computation task allocation, and communication resource management of UAVs. Moreover, to solve the above non-convex optimization problem, a Markov decision process is formulated for the multi-UAV assisted mobile edge computing system. To obtain the joint strategy of trajectory design, task allocation, and power management, a cooperative multi-agent deep reinforcement learning framework is investigated. Considering the high-dimensional continuous action space, the twin delayed deep deterministic policy gradient algorithm is exploited. The evaluation results demonstrate that our multi-UAV multi-EC task offloading method can achieve better performance compared with the other optimization approaches.
+KW  - Antennas
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Optimisations
+KW  - Multi agent systems
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - computation offloading
+KW  - Resource allocation
+KW  - Vehicle network
+KW  - Markov processes
+KW  - deep reinforcement learning
+KW  - Deep reinforcement learning
+KW  - task offloading
+KW  - Task offloading
+KW  - Deep learning
+KW  - Job analysis
+KW  - Task analysis
+KW  - Trajectories
+KW  - Resource management
+KW  - Wireless communications
+KW  - Convex optimization
+KW  - Unmanned aerial vehicle network
+KW  - UAV networks
+KW  - cooperative offloading
+KW  - Cooperative offloading
+ER  - 
+
+TY  - JOUR
+TI  - Multi-UAV Cooperative Task Offloading and Resource Allocation in 5G Advanced and Beyond
+AU  - Guo, HZ
+AU  - Wang, YT
+AU  - Liu, JJ
+AU  - Liu, C
+PY  - 2024
+DA  - 2024-01
+T2  - IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+JO  - IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+VL  - 23
+IS  - 1
+SP  - 347
+EP  - 359
+DO  - 10.1109/TWC.2023.3277801
+UR  - https://www.scopus.com/pages/publications/85161014893?origin=resultslist
+SN  - 1536-1276
+AB  - In 5G advanced and beyond, latency-critical and computation-intensive applications require more communication and computing resources. However, remote areas without available terrestrial edge/cloud infrastructure fail to satisfy these applications' demands. This motivates the emergence of the UAV-enabled aerial computing paradigm. Single UAV-enabled aerial computing (SUEAC) is limited by small coverage area and insufficient resources, which cannot meet the application requirements. Multiple UAV-enabled aerial computing (MUEAC) has broken through the limitation of SUEAC and has attracted wide attention. Cooperation among multiple UAVs in MUEAC can fully utilize UAV resources and achieve load balancing. Furthermore, for divisible tasks with data-dependent characteristics, using partial offloading makes task scheduling more flexible compared to binary offloading, thus reducing task processing delay. Therefore, we propose a software defined networking enhanced cooperative MUEAC system. To minimize the processing delay of divisible tasks, we study the problem of joint task scheduling and computing resource allocation under task data dependency and UAV energy consumption constraints. To solve the non-convex problem, a multi-UAV cooperative communication and computing optimization (MCCCO) scheme is proposed. Experimental results corroborate that MCCCO can achieve better performance in task processing delay reduction and load balancing on UAV energy consumption than the traditional schemes.
+KW  - Antennas
+KW  - Unmanned aerial vehicles (UAV)
+KW  - 5G mobile communication systems
+KW  - Multi UAV
+KW  - Computation offloading
+KW  - Energy utilization
+KW  - Resource allocation
+KW  - resource allocation
+KW  - Resources allocation
+KW  - task offloading
+KW  - Task offloading
+KW  - Scheduling algorithms
+KW  - Tasks scheduling
+KW  - Cooperative communication
+KW  - Multitasking
+KW  - Computing resource
+KW  - Multiple UAVs
+KW  - Load-Balancing
+KW  - Multiple UAV-enabled aerial computing
+KW  - partial offloading
+KW  - Partial offloading
+KW  - Processing delay
+ER  - 
+
+TY  - JOUR
+TI  - Joint Task Offloading, Resource Allocation, and Trajectory Design for Multi-UAV Cooperative Edge Computing With Task Priority
+AU  - Hao, H
+AU  - Xu, CQ
+AU  - Zhang, W
+AU  - Yang, SJ
+AU  - Muntean, GM
+PY  - 2024
+DA  - 2024-09
+T2  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+JO  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL  - 23
+IS  - 9
+SP  - 8649
+EP  - 8663
+DO  - 10.1109/TMC.2024.3350078
+UR  - https://www.scopus.com/pages/publications/85182378671?origin=resultslist
+SN  - 1536-1233
+AB  - Mobile edge computing (MEC) has emerged as a solution to address the demands of computation-intensive network services by providing computational capabilities at the network edge, thus reducing service delays. Due to the flexible deployment, wide coverage and reliable wireless communication, unmanned aerial vehicles (UAVs) have been employed to assist MEC. This paper investigates the task offloading problem in a UAV-assisted MEC system with collaboration of multiple UAVs, highlighting task priorities and binary offloading mode. We defined the system gain based on energy consumption and task delay. The joint optimization of UAVs' trajectory design, binary offloading decision, computation resources allocation, and communication resources management is formulated as a mixed integer programming problem with the goal of maximizing the long-term average system gain. Considering the discrete-continuous hybrid action space of this problem, we propose a novel deep reinforcement learning (DRL) algorithm based on the latent space to solve it. The evaluation results demonstrate that our proposed algorithm outperforms three state-of-the-art alternative solutions in terms of task delay and system gain.
+KW  - Aerial vehicle
+KW  - Antennas
+KW  - Autonomous aerial vehicles
+KW  - Computation offloading
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - Delay
+KW  - Delays
+KW  - Energy consumption
+KW  - Energy utilization
+KW  - Energy-consumption
+KW  - Integer programming
+KW  - Job analysis
+KW  - mobile edge computing
+KW  - Mobile edge computing
+KW  - Optimisations
+KW  - Optimization
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Resource management
+KW  - Task analysis
+KW  - task offloading
+KW  - Task offloading
+KW  - Trajectories
+KW  - Trajectory
+KW  - Unmanned aerial vehicle
+KW  - unmanned aerial vehicle (UAV)
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Vehicle to vehicle communications
+ER  - 
+
+TY  - JOUR
+TI  - Deep Reinforcement Learning Based Resource Allocation in Multi-UAV-Aided MEC Networks
+AU  - Chen, JX
+AU  - Cao, XB
+AU  - Yang, P
+AU  - Xiao, M
+AU  - Ren, SQ
+AU  - Zhao, ZL
+AU  - Wu, DO
+PY  - 2023
+DA  - 2023-01
+T2  - IEEE TRANSACTIONS ON COMMUNICATIONS
+JO  - IEEE TRANSACTIONS ON COMMUNICATIONS
+VL  - 71
+IS  - 1
+SP  - 296
+EP  - 309
+DO  - 10.1109/TCOMM.2022.3226193
+SN  - 0090-6778
+AB  - Resource allocation for mobile edge computing (MEC) in unmanned aerial vehicle (UAV) networks has been a popular research issue. Different from existing works, this paper considers a multi-UAV-aided uplink communication scenario and investigates a resource allocation problem of minimizing the total system latency and the energy consumption, subject to constraints on transmit power of mobile users (MUs), system latency caused by transmission and computation. The problem is confirmed to be a challenging time-series mixed-integer non-convex programming problem, and we propose a joint UAV Movement control, MU Association and MU Power control (UMAP) algorithm to solve it effectively, where three sub-problems are optimized iteratively. Specifically, UAV movement and MU association are optimized utilizing deep reinforcement learning (DRL) to decrease the energy consumption and system latency. Next, a closed-form solution of the MU transmit power is derived. Finally, simulation results show that the UMAP algorithm can significantly decrease the system latency and energy consumption and increase the coverage rate compared with benchmark algorithms.
+KW  - Antennas
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Energy utilization
+KW  - Energy-consumption
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - Unmanned aerial vehicle
+KW  - Deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - Deep learning
+KW  - Integer programming
+KW  - UAV
+KW  - Iterative methods
+KW  - Convex optimization
+KW  - MEC
+KW  - DRL
+KW  - Mobile users
+KW  - movement control
+KW  - Movement control
+KW  - Power control
+KW  - System latency
+KW  - Transmit power
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Objective Optimization for Multi-UAV-Assisted Mobile Edge Computing
+AU  - Sun, G
+AU  - Wang, YX
+AU  - Sun, ZM
+AU  - Wu, QQ
+AU  - Kang, JW
+AU  - Niyato, D
+AU  - Leung, VCM
+PY  - 2024
+DA  - 2024-12
+T2  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+JO  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL  - 23
+IS  - 12
+SP  - 14803
+EP  - 14820
+DO  - 10.1109/TMC.2024.3446819
+UR  - https://www.scopus.com/pages/publications/105002088330?origin=resultslist
+SN  - 1536-1233
+AB  - Recent developments in unmanned aerial vehicles (UAVs) and mobile edge computing (MEC) have provided users with flexible and resilient computing services. However, meeting the computation-intensive and delay-sensitive demands of users poses a significant challenge due to the limited resources of UAVs. To address this challenge, we consider a multi-UAV-assisted MEC system. Based on this system, we formulate a multi-objective optimization problem aiming at minimizing the total task completion delay, reducing the total UAV energy consumption, and maximizing the total number of offloaded tasks. Since the problem is a mixed-integer non-linear programming (MINLP) and NP-hard problem, we propose a joint task offloading, computation resource allocation, and UAV trajectory control (JTORATC) approach. The problem is split into three components to cope with the coupling of these decision variables, and then solved individually to obtain the corresponding decisions. Specifically, the sub-problem of task offloading is solved by using distributed splitting and threshold rounding methods, the sub-problem of computation resource allocation is solved by adopting the Karush-Kuhn-Tucker (KKT) method, and the sub-problem of UAV trajectory control is solved by employing the successive convex approximation (SCA) method. Simulation results show that the proposed JTORATC has superior performance compared with the other benchmark methods.
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Optimisations
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - Unmanned aerial vehicle
+KW  - Delay
+KW  - mobile edge computing
+KW  - Benchmarking
+KW  - task offloading
+KW  - Task offloading
+KW  - Job analysis
+KW  - Task analysis
+KW  - Computation resource allocations
+KW  - Integer programming
+KW  - Resource management
+KW  - Convex optimization
+KW  - Multitasking
+KW  - Multiobjective optimization
+KW  - NP-hard
+KW  - computation resource allocation
+KW  - Conformal mapping
+KW  - Convergence of numerical methods
+KW  - Delay control systems
+KW  - Linear programming
+KW  - Mixed-integer linear programming
+KW  - Trajectory control
+KW  - UAV trajectory control
+KW  - Unmanned aerial vehicle trajectory control
+KW  - Vehicle trajectories
+ER  - 
+
+TY  - JOUR
+TI  - Task Offloading and Trajectory Optimization for Secure Communications in Dynamic User Multi-UAV MEC Systems
+AU  - Zhang, YH
+AU  - Kuang, ZF
+AU  - Feng, YY
+AU  - Hou, F
+PY  - 2024
+DA  - 2024-12
+T2  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+JO  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL  - 23
+IS  - 12
+SP  - 14427
+EP  - 14440
+DO  - 10.1109/TMC.2024.3442909
+SN  - 1536-1233
+AB  - With the advantages of high mobility and flexible deployment, Unmanned Aerial Vehicle (UAV) combines with Mobile Edge Computing (MEC) is a promising technology. When dynamic Terminal Users (TUs) offload tasks to UAVs, eavesdroppers may eavesdrop on the channel information. The offloading decisions, trajectory plannings of UAVs and resource allocation with the objective of high-capacity secure communication is a challenging problem. In this paper, we design a multi-UAVs MEC system, where the original region is divided into several sub-regions and TUs offload tasks to UAVs which provide computing services for these TUs. Meanwhile, A joint optimization problem of offloading decision, resource allocation and trajectory planning is formulated, where TUs move with the Gauss-Markov random model. In addition, the Base Station (BS) emits jamming signals to evade the eavesdropping of offloading information from eavesdroppers. The goal of the optimization problem is to maximize the TUs' minimum secure calculation capacity, and a Joint Dynamic Programming and Bidding (JDPB) algorithm is proposed to solve it. The Successive Convex Approximation (SCA) and Block Coordinate Descent (BCD) algorithms are used to handle the resource allocation and trajectory planning problems, and the bidding method is used to address the task offloading decision problem. Simulation results show that JDPB has better performance and better robustness under different parameter settings than other schemes.
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Queueing theory
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi UAV
+KW  - Computation offloading
+KW  - Aerial vehicle
+KW  - Aircraft communication
+KW  - Markov processes
+KW  - Computing system
+KW  - Resources allocation
+KW  - task offloading
+KW  - Task offloading
+KW  - Mobile cloud computing
+KW  - Convex optimization
+KW  - Dynamic programming
+KW  - Dynamic user
+KW  - Joint dynamics
+KW  - MEC
+KW  - Medium access control
+KW  - Mobile telecommunication systems
+KW  - multi -UAVs
+KW  - Optimization problems
+KW  - secure communication
+KW  - Secure communication
+KW  - trajectory planning
+KW  - Trajectory Planning
+KW  - Trellis codes
+ER  - 
+
+TY  - JOUR
+TI  - Resilient Consensus Control of Heterogeneous Multi-UAV Systems With Leader of Unknown Input Against Byzantine Attacks
+AU  - Cui, YK
+AU  - Liang, YW
+AU  - Luo, QY
+AU  - Shu, Z
+AU  - Huang, TW
+PY  - 2025
+DA  - 2025
+T2  - IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+JO  - IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+VL  - 22
+SP  - 5388
+EP  - 5399
+DO  - 10.1109/TASE.2024.3420697
+UR  - https://www.scopus.com/pages/publications/86000354904?origin=resultslist
+SN  - 1545-5955
+AB  - This paper addresses the consensus control problem of heterogeneous multi-UAV systems against Byzantine attacks. A drone compromised by Byzantine attacks transmits erroneous values to its neighbors while applying wrong input signals for itself, which is aggressive and challenging to defend. Inspired by the concept of digital twin technology, we introduce a new hierarchical protocol equipped with a virtual twin layer (TL), which decouples the challenges into two defense schemes: one against Byzantine edge attacks on the TL and the other against Byzantine node attacks on the cyber-physical layer (CPL). In the TL, we provide a topology reconfiguration strategy that enhances the resilience of the communication network by judiciously adding a minimal number of key edges. We rigorously demonstrate that the control strategy attains asymptotic consensus within a finite timeframe, given that the topology on the TL adheres to a strongly (2f+1)-robustness criterion. Within the CPL, decentralized chattering-free controllers are proposed to ensure the resilient output consensus for the heterogeneous multi-UAV systems against Byzantine node attacks. Furthermore, the derived consensus controller exhibits an exponential convergence characteristic. The effectiveness and practicality of the obtained theoretical results are verified by a UAV swarm flight experiment.
+KW  - Edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Binary trees
+KW  - Byzantine attacks
+KW  - Co-operative control
+KW  - Consensus control
+KW  - cooperative control
+KW  - Cyber physicals
+KW  - Digital control systems
+KW  - Directed graphs
+KW  - Distributed-control
+KW  - Feedback control
+KW  - Fog computing
+KW  - Invariance
+KW  - Multi UAV
+KW  - Multi-UAV system
+KW  - multi-UAV systems
+KW  - Network layers
+KW  - Physical layers
+KW  - resilient distributed control
+KW  - Resilient distributed control
+KW  - Robustness (control systems)
+KW  - Root loci
+KW  - State feedback
+KW  - Trees (mathematics)
+KW  - UAV systems
+ER  - 
+
+TY  - JOUR
+TI  - Edge-Assisted Multi-Robot Visual-Inertial SLAM With Efficient Communication
+AU  - Liu, X
+AU  - Wen, SH
+AU  - Zhao, J
+AU  - Qiu, TZ
+AU  - Zhang, H
+PY  - 2025
+DA  - 2025
+T2  - IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+JO  - IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+VL  - 22
+SP  - 2186
+EP  - 2198
+DO  - 10.1109/TASE.2024.3376427
+SN  - 1545-5955
+AB  - The integration of cloud computing and edge computing is an effective way to achieve global consistent and real-time multi-robot Simultaneous Localization and Mapping (SLAM). Cloud computing effectively solves the problem of limited computing, communication and storage capacity of terminal equipment. However, limited bandwidth and extremely long communication links between terminal devices and the cloud result in serious performance degradation of multi-robot SLAM systems. To reduce the computational cost of feature tracking and improve the real-time performance of the robot, a lightweight SLAM method of optical flow tracking based on pyramid IMU prediction is proposed. On this basis, a centralized multi-robot SLAM system based on a robot-edge-cloud layered architecture is proposed to realize real-time collaborative SLAM. It avoids the problems of limited on-board computing resources and low execution efficiency of single robot. In this framework, only the feature points and keyframe descriptors are transmitted and lossless encoding and compression are carried out to realize real-time remote information transmission with limited bandwidth resources. This design reduces the actual bandwidth occupied in the process of data transmission, and does not cause the loss of SLAM accuracy caused by data compression. Through experimental verification on the EuRoC dataset, compared with the current most advanced local feature compression method, our method can achieve lower data volume feature transmission, and compared with the current advanced centralized multi-robot SLAM scheme, it can achieve the same or better positioning accuracy under low computational load. Note to Practitioners-The purpose of this paper is to reduce the communication load of a Cloud-Edge-Robot system by compressing and transmitting of keyframes and non-keyframes, respectively, which is suitable for a multi-robot SLAM system and can realize multi-robot joint localization and sparse map reconstruction under efficient communication. Currently, remote SLAM or centralized multi-robot SLAM is usually implemented by transferring the whole image or the features and descriptors of the image. In this paper, lightweight SLAM optical flow tracking based on pyramid IMU prediction is implemented to track non-keyframes. At the edge server, tracking between non-keyframes is realized only by transmitting keypoints. For keyframes, the pose estimation is realized by transmitting compressed features and descriptors. Multi-robot localization and map fusion are realized in the cloud through key frame feature information. Experiments on public datasets show that this method is feasible and can achieve high-precision joint positioning with a low amount of transmitted data. In future studies, we will apply this framework to more real-world systems, while achieving rich, accurate map fusion with more advanced features.
+KW  - Industrial robots
+KW  - Robot kinematics
+KW  - Cloud-computing
+KW  - Multipurpose robots
+KW  - Data transfer
+KW  - Bandwidth
+KW  - Multirobots
+KW  - Digital storage
+KW  - Interactive computer systems
+KW  - Real - Time system
+KW  - Real time systems
+KW  - Cloud computing
+KW  - Collaboration
+KW  - Mapping
+KW  - Robot sensing system
+KW  - Simultaneous localization and mapping
+KW  - Cloud-edge-robot collaboration
+KW  - Data communication systems
+KW  - feature compression
+KW  - Feature compression
+KW  - Multi-robot simultaneous localization and mapping
+KW  - multi-robot SLAM
+KW  - Optical flows
+ER  - 
+
+TY  - JOUR
+TI  - QoS-Oriented Task Offloading in NOMA-Based Multi-UAV Cooperative MEC Systems
+AU  - Chen, PP
+AU  - Luo, LL
+AU  - Guo, DK
+AU  - Wu, JJ
+AU  - Chi, KK
+AU  - Yan, CG
+AU  - Dong, XD
+PY  - 2026
+DA  - 2026
+T2  - IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+JO  - IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+VL  - 25
+SP  - 1965
+EP  - 1980
+DO  - 10.1109/TWC.2025.3593884
+UR  - https://www.scopus.com/pages/publications/105012730107?origin=resultslist
+SN  - 1536-1276
+AB  - As resource-intensive and latency-sensitive applications continue to expand, the integration of unmanned aerial vehicles (UAVs) with mobile edge computing (MEC) has emerged as a viable solution, offering flexible, on-demand services for mobile users (MUs) without reliance on terrestrial infrastructure. The adoption of non-orthogonal multiple access (NOMA) further reduces latency by allowing MUs to offload tasks simultaneously over a single subchannel. However, many existing offloading methods do not explicitly incorporate a priority-based task scheduling mechanism and instead optimize task execution based on system constraints such as latency or energy consumption. To bridge this gap, we propose a QoS-oriented task offloading scheme that systematically optimizes task scheduling. We formulate an average system utility maximization problem that jointly optimizes UAVs' 3D trajectories, MU association, task offloading ratios, and resource allocation. The optimization problem is inherently complex due to its non-convex nature and multiple constraints. To address this, we first employ Lagrange duality to decouple constraints, reducing computational complexity. Subsequently, we propose a novel improved soft actor-critic (ISAC) algorithm, which incorporates a perturbation term into the loss function to guide the training process away from local minima and toward globally optimal solutions. Through extensive simulation, we demonstrate that the ISAC algorithm guarantees convergence and significantly outperforms benchmark methods on offloading transmission rates, task completion rates, and overall system utility.
+KW  - Antennas
+KW  - Optimization
+KW  - unmanned aerial vehicle
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - Unmanned aerial vehicle
+KW  - deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - Task offloading
+KW  - Deep learning
+KW  - Learning systems
+KW  - Scheduling algorithms
+KW  - Mobile telecommunication systems
+KW  - Multitasking
+KW  - Multiple access
+KW  - Non-orthogonal
+KW  - Non-orthogonal multiple access
+KW  - non-orthogonal multiple access
+KW  - QoS oriented
+KW  - Task priorities
+KW  - Task priority
+ER  - 
+
+TY  - JOUR
+TI  - Joint Task Offloading and Resource Allocation in Multi-UAV Multi-Server Systems: An Attention-Based Deep Reinforcement Learning Approach
+AU  - Wu, GH
+AU  - Liu, ZL
+AU  - Fan, MF
+AU  - Wu, KY
+PY  - 2024
+DA  - 2024-08
+T2  - IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+JO  - IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+VL  - 73
+IS  - 8
+SP  - 11964
+EP  - 11978
+DO  - 10.1109/TVT.2024.3377647
+UR  - https://www.scopus.com/pages/publications/85188517165?origin=resultslist
+SN  - 0018-9545
+AB  - The multi-access edge computing (MEC) provides opportunities for unmanned aerial vehicles (UAVs) to perform computing-intensive and delay-sensitive applications. To further reduce the time delay and energy consumption of UAVs, in this paper, we study the long-term optimization problem of joint task offloading and resource allocation in a multi-UAV multi-server MEC network (JTORA-MUMS), where the task offloading decision and the allocation of CPU frequency, bandwidth, and transmission power are jointly optimized. Furthermore, we formulate JTORA-MUMS as a Markov Decision Process (MDP) with a discrete-continuous hybrid action space and handle the hybrid action space by mapping part of continuous actions to discrete decisions. To solve JTORA-MUMS, we propose a novel deep reinforcement learning (DRL) approach, DDPG-MHSA, in which a multi-head self-attention (MHSA) based actor-critic model is trained by a deep deterministic policy gradient (DDPG) algorithm. Extensive experiments show that the proposed DDPG-MHSA approach outperforms state-of-the-art DRL-based methods and conventional heuristics, with good generalization to the number of UAVs and computing task properties.
+KW  - Antennas
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Optimization
+KW  - Computational modelling
+KW  - Computation offloading
+KW  - Optimisations
+KW  - Energy utilization
+KW  - Energy-consumption
+KW  - Heuristic methods
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - Unmanned aerial vehicle
+KW  - Drones
+KW  - Markov processes
+KW  - deep reinforcement learning
+KW  - Deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - task offloading
+KW  - Task offloading
+KW  - Deep learning
+KW  - Job analysis
+KW  - Task analysis
+KW  - Computing power
+KW  - UAV
+KW  - Resource management
+KW  - edge computing
+ER  - 
+
+TY  - JOUR
+TI  - Cognitive digital twin-based Internet of Robotic Things, multi-sensory extended reality and simulation modeling technologies, and generative artificial intelligence and cyber-physical manufacturing systems in the immersive industrial metaverse
+AU  - Lazaroiu, G
+AU  - Gedeon, T
+AU  - Valaskova, K
+AU  - Vrbka, J
+AU  - Suler, P
+AU  - Zvarikova, K
+AU  - Kramarova, K
+AU  - Rowland, Z
+AU  - Stehel, V
+AU  - Gajanova, L
+AU  - Horák, J
+AU  - Grupac, M
+AU  - Caha, Z
+AU  - Blazek, R
+AU  - Kovalova, E
+AU  - Nagy, M
+PY  - 2024
+DA  - 2024-09
+T2  - EQUILIBRIUM-QUARTERLY JOURNAL OF ECONOMICS AND ECONOMIC POLICY
+JO  - EQUILIBRIUM-QUARTERLY JOURNAL OF ECONOMICS AND ECONOMIC POLICY
+VL  - 19
+IS  - 3
+SP  - 719
+EP  - 748
+DO  - 10.24136/eq.3131
+SN  - 1689-765X
+AB  - Research background: Connected Internet of Robotic Things (IoRT) and cyber-physical process monitoring systems, industrial big data and real-time event analytics, and machine and deep learning algorithms articulate digital twin smart factories in relation to deep learning-assisted smart process planning, Internet of Things (IoT)-based real-time production logistics, and enterprise resource coordination. Robotic cooperative behaviors and 3D assembly opera-tions in collaborative industrial environments require ambient environment monitoring and geospatial simulation tools, computer vision and spatial mapping algorithms, and generative artificial intelligence (AI) planning software. Flexible industrial and cloud computing environments necessitate sensing and actuation capabilities, cognitive data visualization and sensor fusion tools, and image recognition and computer vision technologies so as to lead to tangible business outcomes. Purpose of the article: We show that generative AI and cyber-physical manufacturing systems, fog and edge computing tools, and task scheduling and computer vision algorithms are instrumental in the interactive economics of industrial metaverse. Generative AI-based digital twin industrial metaverse develops on IoRT and production management systems, multi-sensory extended reality and simulation modeling technologies, and machine and deep learning algorithms for big data-driven decision-making and image recognition processes. Virtual simulation modeling and deep reinforcement learning tools, autonomous manufacturing and virtual equipment systems, and deep learning-based object detection and spatial computing technologies can be leveraged in networked immersive environments for industrial big data processing. Methods: Evidence appraisal checklists and citation management software deployed for justifying inclusion or exclusion reasons and data collection and analysis comprise: Abstrackr, Colandr, Covidence, EPPI Reviewer, JBI-SUMARI, Rayyan, RobotReviewer, SR Accelerator, and Systematic Review Toolbox. Findings & value added: Modal actuators and sensors, robot trajectory planning and computational intelligence tools, and generative AI and cyber-physical manufacturing systems enable scalable data computation processes in smart virtual environments. Ambient intelligence and remote big data management tools, cloud-based robotic cooperation and industrial cyber-physical systems, and environment mapping and spatial computing algorithms improve IoT-based real-time production logistics and cooperative multi-agent controls in smart networked factories. Context recognition and data acquisition tools, generative AI and cyber-physical manufacturing systems, and deep and machine learning algorithms shape smart factories in relation to virtual path lines, collision-free motion planning, and coordinated and unpredictable smart manufacturing and robotic perception tasks, increasing economic performance. This collective writing cumulates and debates upon the most recent and relevant literature on cognitive digital twin-based Internet of Robotic Things, multi-sensory extended reality and simulation modeling technologies, and generative AI and cyber-physical manufacturing systems in the immersive industrial metaverse by use of evidence appraisal checklists and citation management software.
+KW  - Internet of Robotic Things
+KW  - cognitive digital twin
+KW  - cyber–physical manufacturing system
+KW  - extended reality
+KW  - generative artificial intelligence
+KW  - immersive industrial metaverse
+KW  - sensor
+KW  - simulation modeling
+ER  - 
+
+TY  - JOUR
+TI  - Bounty hunter optimizer: A novel metaheuristic with an application to multi-UAV mobile edge computing and path planning
+AU  - Yu, MY
+AU  - Yang, HR
+AU  - Zhang, JQ
+AU  - Ouyang, KC
+AU  - Fu, SW
+AU  - Tan, PL
+AU  - Jiang, F
+AU  - Xu, J
+PY  - 2026
+DA  - 2026-05-23
+T2  - KNOWLEDGE-BASED SYSTEMS
+JO  - KNOWLEDGE-BASED SYSTEMS
+VL  - 341
+DO  - 10.1016/j.knosys.2026.115836
+SN  - 0950-7051
+AB  - This study proposes the bounty hunter optimizer (BHO), a novel optimization algorithm inspired by the behavior of bounty hunters. Unlike traditional methods that rely on mean aggregation, BHO employs a decentralized position-update strategy based on local differences and random disturbances, inherently avoiding center bias and population collapse. BHO introduces three core innovations: (1) the Explorpolis rule, which quantifies individual fitness and its spatial relationship to the high-quality solution set, enabling intelligent filtering of inferior solutions; (2) a quantum probability rotation selection mechanism, which replaces the traditional roulette-wheel selection using quantum bits and rotation gates to continuously adjust probability amplitudes, significantly enhancing population diversity; and (3) an evolutionary model inspired by the "thorough investigation," "rough search," and "hunter re-assignment" behaviors of hunters, integrated with a self-feedback adjustment mechanism to dynamically balance exploration and exploitation. Experimental results on the CEC2017 test suite demonstrate that the BHO excels in both 30-dimensional and 100-dimensional optimization tasks, significantly outperforming 11 advanced optimization algorithms, including four competition-level state-of-the-art variants. When applied to the multi-unmanned aerial vehicle (multi-UAV) mobile edge computing (MEC) and path planning (PP) (multi-UAV MEC-PP) system, BHO effectively addresses the path optimization problem under quality-of-service constraints. Extensive simulations across different scales confirm its superior performance, achieving >15% cost reduction relative to advanced competitors and providing reliable and efficient support for PP and decision-making in MEC environments.
+KW  - Antennas
+KW  - Edge computing
+KW  - Optimization
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi UAV
+KW  - Decision making
+KW  - Aerial vehicle
+KW  - Behavioral research
+KW  - Quality of service
+KW  - Motion planning
+KW  - Bounty hunter optimizer
+KW  - Cost reduction
+KW  - Evolutionary algorithms
+KW  - Evolutionary model
+KW  - Evolutionary models
+KW  - Explorpolis rule
+KW  - Multi-UAV mobile edge computing and path planning
+KW  - Optimizers
+KW  - Quantum probabilities
+KW  - Quantum probability rotation selection
+KW  - Rotation
+ER  - 
+
+TY  - JOUR
+TI  - Multi-UAV-Enabled Collaborative Edge Computing: Deployment, Offloading and Resource Optimization
+AU  - Tan, L
+AU  - Guo, ST
+AU  - Zhou, PZ
+AU  - Kuang, ZF
+AU  - Long, SQ
+AU  - Li, ZT
+PY  - 2024
+DA  - 2024-11
+T2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+JO  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL  - 25
+IS  - 11
+SP  - 18305
+EP  - 18320
+DO  - 10.1109/TITS.2024.3432818
+UR  - https://www.scopus.com/pages/publications/85208715882?origin=resultslist
+SN  - 1524-9050
+AB  - Unmanned aerial vehicle (UAV) edge computing systems provide easy-to-deploy and low-cost services at those areas with inadequate infrastructure by deploying UAVs as moving edge servers for large-scale users. However, user devices are generally distributed unevenly in a large area, which makes it difficult for existing efforts to cope with this realistic scenario for optimal deployment of UAVs. Therefore, this paper considers a multiple UAV (Multi-UAV) Collaborative edge Computing (UCC) system by utilizing collaboration among them to split computation tasks at UAVs to balance the load and improve resource utilization. In order to maximize the energy-efficiency of the UCC system under the satisfaction of the delay constraint, we study the joint problem of UAV deployment, task collaborative offloading, computation and communication resource allocation in UCC system. We propose a bi-level optimization framework to solve the formulated non-convex mixed-integer optimization problem. In the upper level, the UAV deployment is optimized based on an improved differential evolution (DE) algorithm, and in the lower level the offloading decision and resource allocation are optimized based on a Reinforcement Learning (RL) algorithm with Twin Delayed Deep Deterministic policy gradient. Experimental results demonstrate the effectiveness and superiority of multi-UAV collaborative computing, with the proposed framework achieving a 32.4% reduction in energy consumption and an average 30% increase in task completion rate compared to DDPG, ToDeTaS, and other benchmark schemes.
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi UAV
+KW  - Computation offloading
+KW  - Energy efficiency
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - Computing system
+KW  - deep reinforcement learning
+KW  - Deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - task offloading
+KW  - Task offloading
+KW  - differential evolution
+KW  - Deep learning
+KW  - Integer programming
+KW  - Convex optimization
+KW  - Differential Evolution
+KW  - multi-UAV deployment
+KW  - Multiple UAVs
+KW  - Multi-unmanned aerial vehicle deployment
+ER  - 
+
+TY  - JOUR
+TI  - A multi-UAV assisted task offloading and path optimization for mobile edge computing via multi-agent deep reinforcement learning
+AU  - Ju, T
+AU  - Li, LJ
+AU  - Liu, S
+AU  - Zhang, Y
+PY  - 2024
+DA  - 2024-09
+T2  - JOURNAL OF NETWORK AND COMPUTER APPLICATIONS
+JO  - JOURNAL OF NETWORK AND COMPUTER APPLICATIONS
+VL  - 229
+DO  - 10.1016/j.jnca.2024.103919
+SN  - 1084-8045
+AB  - To tackle task offloading and path planning challenges in multi-UAV-assisted mobile edge computing, this paper proposes a task offloading and path optimization approach via multi -agent deep reinforcement learning. The primary goal is to minimize the overall energy consumption of the system and improve computational performance. Initially, we established a model for a multi-UAV-assisted mobile edge computing system that centrally manages the UAV network through software -defined networking technology. Subsequently, considering UAV load and fairness in user equipment -related services, we employ the multi -agent deep deterministic policy gradient algorithm to optimize task offloading and UAV path management, aiming at load balancing and reducing overall system energy consumption. Simulation results demonstrate our method's effectiveness in reducing energy consumption and computation latency compared to benchmark algorithms. It ensures system efficiency, stability, and reliability, meeting mobile edge users' service requests while utilizing computing resources efficiently.
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi UAV
+KW  - Computation offloading
+KW  - Multi agent systems
+KW  - Energy utilization
+KW  - Energy-consumption
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Task offloading
+KW  - Deep learning
+KW  - Motion planning
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - Computational performance
+KW  - Multi-UAV network
+KW  - Optimization approach
+KW  - Path optimization
+KW  - Path optimizations
+ER  - 
+
+TY  - JOUR
+TI  - AAV Swarm Cooperative Search Based on Scalable Multiagent Deep Reinforcement Learning With Digital Twin-Enabled Sim-to-Real Transfer
+AU  - Cao, P
+AU  - Lei, L
+AU  - Shen, GQ
+AU  - Cai, SS
+AU  - Liu, XJ
+AU  - Liu, XC
+PY  - 2025
+DA  - 2025-06
+T2  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+JO  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL  - 24
+IS  - 6
+SP  - 5173
+EP  - 5188
+DO  - 10.1109/TMC.2025.3530438
+SN  - 1536-1233
+AB  - Cooperative target search (CTS) technology is highly desirable in various multi-autonomous aerial vehicle (AAV) applications. However, searching for unknown targets in a dynamic threatening environment is a challenging problem, especially for AAVs with limited sensing range and communication capabilities. Besides, traditional searching methods lack scalability and efficient collaboration among the AAV swarm in dynamic environments. In this work, a digital twin (DT)-enabled distributed CTS approach was presented for AAV swarms and achieving sim-to-real transfer. Specifically, a new scalable multi-agent reinforcement learning (MARL) based algorithm called SAMARL is adopted to improve effectiveness and adaptability, combining a multi-head attention mechanism. In SAMARL, a scalable observation space with graph representation and an environmental cognition map is designed to thoroughly consider the target search rate, area coverage, and safety assurance. Then, a DT-driven training framework is proposed to facilitate the continuous evolution of MARL models and address the tradeoff between training speed and environment fidelity. Furthermore, we innovatively develop a distributed AAV swarm digital twin cooperative target search validation system, including real flight control, communication simulation tools, and a 3D physics engine. Extensive simulations validate its superiority compared to state-of-the-art strategies. More importantly, we also conduct real-world flight experiments on different scale mission areas and AAV swarms, further demonstrating the generalization and scalability of trained models.
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi-agent reinforcement learning
+KW  - Reinforcement learning
+KW  - Aircraft communication
+KW  - Policy optimization
+KW  - Deep reinforcement learning
+KW  - Deep learning
+KW  - digital twin
+KW  - Multi agent
+KW  - UAV swarm
+KW  - Cooperative target search
+KW  - Cooperative targets
+KW  - Target search
+KW  - Flight simulators
+KW  - Aircraft detection
+KW  - attention mechanism
+KW  - Attention mechanisms
+KW  - autonomous aerial vehicle (AAV) swarms
+KW  - Digital elevation model
+KW  - Multi-agent proximal policy optimization
+KW  - multiagent proximal policy optimization
+KW  - Real world experiment
+KW  - real-world experiments
+KW  - Scalability
+KW  - Transfer learning
+ER  - 
+
+TY  - JOUR
+TI  - Joint Task Allocation and Trajectory Optimization for Multi-UAV Collaborative Air-Ground Edge Computing
+AU  - Qin, P
+AU  - Li, JH
+AU  - Zhang, J
+AU  - Fu, Y
+PY  - 2024
+DA  - 2024-11
+T2  - IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING
+JO  - IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING
+VL  - 11
+IS  - 6
+SP  - 6231
+EP  - 6243
+DO  - 10.1109/TNSE.2024.3481061
+UR  - https://www.scopus.com/pages/publications/85207462294?origin=resultslist
+SN  - 2327-4697
+AB  - With the proliferation of Internet of Things (IoT), compute-intensive and latency-critical applications continue to emerge. However, IoT devices in isolated locations have insufficient energy storage as well as computing resources and may fall outside the service range of ground communication networks. To overcome the constraints of communication coverage and terminal resource, this paper proposes a multiple Unmanned Aerial Vehicle (UAV)-assisted air-ground collaborative edge computing network model, which comprises associated UAVs, auxiliary UAVs, ground user devices (GDs), and base stations (BSs), intending to minimize the overall system energy consumption. It delves into task offloading, UAV trajectory planning and edge resource allocation, which thus is classified as a Mixed-Integer Nonlinear Programming (MINLP) problem. Worse still, the coupling of long-term task queuing delay and short-term offloading decision makes it challenging to address the original issue directly. Therefore, we employ Lyapunov optimization to transform it into two sub-problems. The first involves task offloading for GDs, trajectory optimization for associated UAVs as well as auxiliary UAVs, which is tackled using Deep Reinforcement Learning (DRL), while the second deals with task partitioning and computing resource allocation, which we address via convex optimization. Through numerical simulations, we verify that the proposed approach outperforms other benchmark methods regarding overall system energy consumption.
+KW  - Edge computing
+KW  - Queueing theory
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Air grounds
+KW  - Computation offloading
+KW  - Optimisations
+KW  - Reinforcement learning
+KW  - Aerial vehicle
+KW  - Aircraft communication
+KW  - Resource allocation
+KW  - Benchmarking
+KW  - Deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - Deterministics
+KW  - Policy gradient
+KW  - Trajectory optimization
+KW  - Integer programming
+KW  - Convex optimization
+KW  - Nonlinear programming
+KW  - Lyapunov optimization
+KW  - Multi agent
+KW  - Multi-agent deep deterministic policy gradient
+KW  - Multi-Agent Deep Deterministic Policy Gradients (MADDPG)
+KW  - Multi-UAV collaborative air-ground edge computing
+KW  - Multi-unmanned aerial vehicle collaborative air-ground edge computing
+KW  - trajectory optimization
+ER  - 
+
+TY  - JOUR
+TI  - Joint Cooperative Computation Offloading and Trajectory Optimization in Heterogeneous UAV-Swarm-Enabled Aerial Edge Computing Networks
+AU  - Yu, HQ
+AU  - Leng, SP
+AU  - Wu, F
+PY  - 2024
+DA  - 2024-05-15
+T2  - IEEE INTERNET OF THINGS JOURNAL
+JO  - IEEE INTERNET OF THINGS JOURNAL
+VL  - 11
+IS  - 10
+SP  - 17700
+EP  - 17711
+DO  - 10.1109/JIOT.2024.3362321
+UR  - https://www.scopus.com/pages/publications/85186983278?origin=resultslist
+SN  - 2327-4662
+AB  - Aerial edge computing (AEC) networks, which employ multiple unmanned aerial vehicles (UAVs) as mobile-edge computing servers, have emerged as a promising solution to provide computation offloading services, especially in scenarios where the coverage of existing infrastructures is limited for wireless networks. Recently, there has been a growing focus on leveraging UAVs with diverse computing capabilities to enhance the performance of AEC networks through cooperative computing. However, heterogeneity and cooperation introduce a higher degree of coupling between trajectory planning and computing offloading strategy for AEC networks. In particular, the joint decision making in an AEC network needs to balance minimizing the distance between UAVs and access users and enabling collaborative offloading. And this must be done while considering the time-varying computation requirements and the long-term impact on system performance. To address the aforementioned challenges, we formulate an optimization problem to design a joint dynamic cooperative computation offloading and trajectory optimization scheme for the AEC network. The complexity arises from the problem's nature as a mixed-integer nonlinear program. To tackle this challenge, we propose a multiagent deep reinforcement learning algorithm based on QMIX. We leverage both theoretical analysis and an action branching architecture to reduce the complexity of our proposed deep reinforcement algorithm. Simulation results demonstrate a substantial performance improvement over the benchmarks, affirming the effectiveness of our complexity reduction approach.
+KW  - Antennas
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Internet of things
+KW  - Learning algorithms
+KW  - Multi agent systems
+KW  - Decision making
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Delay
+KW  - Benchmarking
+KW  - Deep learning
+KW  - Job analysis
+KW  - Task analysis
+KW  - Trajectories
+KW  - Complex networks
+KW  - Trajectory optimization
+KW  - Integer programming
+KW  - trajectory planning
+KW  - Trajectory Planning
+KW  - Nonlinear programming
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - Aerodynamics
+KW  - Aerial edge network
+KW  - EDGE Networks
+KW  - Heterogeneous unmanned aerial vehicle
+KW  - heterogeneous unmanned aerial vehicles (UAVs)
+KW  - multiagent deep reinforcement learning
+ER  - 
+
+TY  - JOUR
+TI  - Task offloading and resource allocation for multi-UAV asset edge computing with multi-agent deep reinforcement learning
+AU  - Zakaryia, SA
+AU  - Meaad, M
+AU  - Nabil, T
+AU  - Hussein, MK
+PY  - 2025
+DA  - 2025-05-03
+T2  - COMPUTING
+JO  - COMPUTING
+VL  - 107
+IS  - 5
+DO  - 10.1007/s00607-025-01472-5
+SN  - 0010-485X
+AB  - Mobile edge computing (MEC) has emerged as a key solution for addressing the demands of computation-intensive network services by providing computational resources at the network edge, thereby minimizing service delays. Leveraging their flexible deployment, wide coverage, and reliable wireless communication, unmanned aerial vehicles (UAVs) have been integrated into MEC systems to enhance performance. This paper investigates the task offloading problem in a Multi-UAV-assisted MEC environment and proposes a collaborative optimization framework that integrates the Distance to Task Location and Capability Match (DTLCM) mechanism with a Multi-Agent Deep Deterministic Policy Gradient (MADDPG) algorithm. Unlike traditional task priority-based offloading schemes, the proposed approach ensures optimal UAV selection based on both computational capability and spatial proximity. The system gain is defined in terms of energy efficiency and task delay with the optimization formulated as a mixed-integer programming problem. To efficiently solve this complex problem, a Multi-Agent Deep Reinforcement Learning framework is employed, combining MADDPG with DTLCM to jointly optimize UAV trajectories, task offloading decisions, computational resource allocation, and communication resource management. Comprehensive simulations demonstrate that the proposed MADDPG-DTLCM framework significantly outperforms four state-of-the-art methods (MADDPG-DTLCM,MADQN, MADDPG without DTLCM, and Greedy offloading), achieving 18% higher task completion rates and 12% lower latency under varying network conditions, particularly in high-user-density scenarios with UAV collaboration.
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - Vehicle network
+KW  - Drones
+KW  - Task offloading
+KW  - Deep learning
+KW  - Deterministics
+KW  - Integer programming
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - Micro air vehicle (MAV)
+KW  - Target drones
+KW  - Multi-UAV network
+KW  - Distance to task location and capability match
+KW  - Multi-unmanned aerial vehicle network
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing UAV-assisted vehicle edge computing networks through a digital twin-driven task offloading framework
+AU  - Zhang, ZY
+AU  - Zhang, FL
+AU  - Cao, MS
+AU  - Feng, CS
+AU  - Chen, DJ
+PY  - 2025
+DA  - 2025-01
+T2  - WIRELESS NETWORKS
+JO  - WIRELESS NETWORKS
+VL  - 31
+IS  - 1
+SP  - 965
+EP  - 981
+DO  - 10.1007/s11276-024-03804-3
+SN  - 1022-0038
+AB  - Enhancing the task offload performance of UAV-assisted Vehicular Edge Computing Networks (VECNs) is complex, especially in vehicle-to-everything (V2X) applications. These networks rely on UAVs and roadside units (RSUs) to offload heavy computational tasks and reduce the load on the on-board systems. However, UAV-assisted VECNs face severe challenges from heterogeneous offload node resources and dynamic edge network environments in providing low-latency and high-response task offloading, especially during traffic congestion or infrastructure failures. In this paper, we propose a digital twin (DT)-driven task offloading framework for UAV-assisted VECNs. The aim of the proposed framework is to improve the global performance of VECN task offloading under limited computational and communication resource constraints. Firstly, we construct a decentralized offloading decision-centralized evaluation task offloading framework for UAV-assisted VECNs based on the asynchronous advantage actor-critic (A3C) algorithm. Secondly, we integrate the graph attention networks (GAT) into the framework to incorporate the dynamically changing DT network topology information into the state evaluation of VECNs. By simulating a DT-driven multi-UAV cooperative system and comprehensive evaluation of real-world task request datasets. The framework has a better task throughput rate and stability when performing task offloading in local resource overload and dynamic edge environment scenarios.
+KW  - Edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Task offloading
+KW  - Digital twin
+KW  - Topology
+KW  - Digital twin (DT)
+KW  - Edge intelligence
+KW  - Performance
+KW  - Traffic congestion
+KW  - Graph attention network
+KW  - Vehicle to Everything
+KW  - Computational task
+KW  - Graph attention network (GAT)
+KW  - Internet of vehicle
+KW  - Internet of vehicles (IoV)
+KW  - Roadside units
+KW  - Task offload
+ER  - 
+
+TY  - JOUR
+TI  - MADTwin: a framework for multi-agent digital twin development: smart warehouse case study
+AU  - Marah, H
+AU  - Challenger, M
+PY  - 2024
+DA  - 2024-08
+T2  - ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE
+JO  - ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE
+VL  - 92
+IS  - 4
+SP  - 975
+EP  - 1005
+DO  - 10.1007/s10472-023-09872-z
+UR  - https://www.scopus.com/pages/publications/85165619123?origin=resultslist
+SN  - 1012-2443
+AB  - A Digital Twin (DT) is a frequently updated virtual representation of a physical or a digital instance that captures its properties of interest. Incorporating both cyber and physical parts to build a digital twin is challenging due to the high complexity of the requirements that should be addressed and satisfied during the design, implementation and operation. In this context, we introduce the MADTwin (Multi-Agent Digital Twin) framework driven by a Multi-agent Systems (MAS) paradigm and supported by flexible architecture and extendible upper ontology for modelling agent-based digital twins. A comprehensive case study of a smart warehouse supported by multi-robots has been presented to show the feasibility and applicability of this framework. The introduced framework powered by intelligent agents integrated with enabler technologies enabled us to cope with parts of the challenges imposed by modelling and integrating Cyber-Physical Systems (CPS) with digital twins for multi-robots of the smart warehouse. In this framework, different components of CPS (robots) are represented as autonomous physical agents with their digital twin agents in the digital twin environment. Agents act autonomously and cooperatively to achieve their local goals and the objectives of the whole system. Eventually, we discuss the framework's strengths and identify areas of improvement and plans for future work.
+KW  - Multi-agent system
+KW  - Digital twin
+KW  - Cyber-physical system
+KW  - Intelligent agent
+ER  - 
+
+TY  - JOUR
+TI  - Multiagent Deep Reinforcement Learning for Decentralized Multi-UAV Mobile Edge Computing Networks
+AU  - Hwang, S
+AU  - Lee, H
+AU  - Kim, M
+AU  - Lee, I
+PY  - 2025
+DA  - 2025-05-15
+T2  - IEEE INTERNET OF THINGS JOURNAL
+JO  - IEEE INTERNET OF THINGS JOURNAL
+VL  - 12
+IS  - 10
+SP  - 14484
+EP  - 14497
+DO  - 10.1109/JIOT.2025.3527016
+UR  - https://www.scopus.com/pages/publications/85214520237?origin=resultslist
+SN  - 2327-4662
+AB  - This article studies a new multiagent deep reinforcement learning (MADRL) approach for unmanned aerial vehicle (UAV)-assisted mobile edge computing (MEC) networks, where AAV-mounted servers provide offloading services to mobile users (MUs). We aim to minimize the total energy consumption of MUs by optimizing AAV mobility, AAV-MU association, resource allocation, and task offloading ratios. In the multi-AAV scenario, we model the MEC network as a multiagent partially observable Markov decision process (POMDP), where each AAV agent operates with limited information for decentralized decision-making. Conventional MADRL methods manually design such AAV interaction messages, thereby incurring performance degradation. To address this issue, we propose a new neural network (NN)-based AAV interaction mechanism that generates autonomously task-oriented messages to minimize energy consumption. Such message-generating NNs are developed under the MADRL framework, which allows for joint optimization of AAV interactions and decentralized decisions in an end-to-end manner. Numerical results demonstrate that our approach outperforms traditional MADRL methods and achieves performance close to ideal centralized schemes while maintaining scalability with varying AAV numbers.
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Energy-consumption
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Mobile edge computing (MEC)
+KW  - Resource allocation
+KW  - Unmanned aerial vehicle
+KW  - Markov processes
+KW  - Deep reinforcement learning
+KW  - Deep learning
+KW  - unmanned aerial vehicle (UAV)
+KW  - Mobile users
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - Adversarial machine learning
+KW  - Decentralised
+KW  - multiagent deep reinforcement learning (MADRL)
+KW  - Vehicle interactions
+ER  - 
+
+TY  - JOUR
+TI  - Digital twin-enabled multi-robot system for collaborative assembly of unorganized parts
+AU  - Oo, KH
+AU  - Koomsap, P
+AU  - Ayutthaya, DHN
+PY  - 2025
+DA  - 2025-03
+T2  - JOURNAL OF INDUSTRIAL INFORMATION INTEGRATION
+JO  - JOURNAL OF INDUSTRIAL INFORMATION INTEGRATION
+VL  - 44
+DO  - 10.1016/j.jii.2024.100764
+SN  - 2467-964X
+AB  - Agility and flexibility in production are essential to meet the challenge of the demand surge for diverse personalized products that come in small volumes. Automatic assembly is one critical process at stake due to the inherent complexity of the number of parts, their shapes, and the randomness of their initial orientations and positions upon arrival at the station. This research introduces a digital twin framework with an information integration layer designed to enhance the flexibility and efficiency of multi-robot operating systems by collaborating with operator skills, addressing the demand for personalized production. The digital twin model allows operators to remotely implant their skills to oversee the assembly process and to control and train the multi-robot operations through an immersive virtual reality interface upon the arrival of new orders without disrupting the current operations of the physical system. The virtual world allows simulations of the algorithms for collisionfree movement and task optimization among multiple robots. Besides, image processing techniques are employed to identify parts arriving in random orientations at the station, providing flexibility during the physical assembly phase. According to the investigation, integrating virtual reality and real-time control challenges data processing and requires robust networking and computational resources. This study contributes to multi-robot operations by providing a scalable and adaptable solution by collaborating with operator skills that enhance both the planning and execution phases of complex assembly processes to new product specifications and changes in design. The methodology presented is foreseen to apply to other manufacturing processes.
+KW  - Industrial robots
+KW  - Digital twin
+KW  - Multipurpose robots
+KW  - Virtual reality
+KW  - Multi-robot systems
+KW  - Multirobots
+KW  - Intelligent robots
+KW  - Robot programming
+KW  - Collaboration
+KW  - Assembly
+KW  - Assembly process
+KW  - Automatic assembly
+KW  - Collaborative assembly
+KW  - Collaborative robots
+KW  - Data integration
+KW  - Gluing
+KW  - Multi-robot system
+KW  - Operator skills
+KW  - Personalized products
+KW  - Process control
+KW  - Robot Operating System
+KW  - Robot operations
+KW  - Robotic assembly
+KW  - Unorganized part
+KW  - Unorganized parts
+KW  - Virtual environments
+ER  - 
+
+TY  - JOUR
+TI  - A transfer reinforcement learning and digital-twin based task allocation method for human-robot collaboration assembly
+AU  - Wang, JF
+AU  - Yan, Y
+AU  - Hu, YG
+AU  - Yang, XN
+AU  - Zhang, LX
+PY  - 2025
+DA  - 2025-03-15
+T2  - ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+JO  - ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+VL  - 144
+DO  - 10.1016/j.engappai.2025.110064
+SN  - 0952-1976
+AB  - Currently, human-robot collaboration systems are considered to have great application potential in complex and flexible assembly tasks. In human-robot collaborative assembly systems, the roles and tasks allocation between human and robot are the vital stage to exert and integrate the strength of both. Current many researches of task allocation mainly train decision-making model depending on a large number of predefined standard assembly data such as assembly time and assembly difficulty. However, due to individual differences and frequent product updates, the dynamic assembly conditions lack enough data for model training, and the constructed model based on historical data may not adapt to the new condition. To solve this gap, a transfer reinforcement learning and digital-twin based task allocation method is proposed to achieve the accurate and efficient multi-agent human- robot collaboration task allocation policy learning. Firstly, based on the digital twin of human-robot collaboration environment, the augmented reality is leveraged to simulate assembly process and collect execution data of workers and robots before the physical assembly. Secondly, a multi-agent reinforcement learning method is introduced to use domain randomization strategy to pre-train decision policy before the accurate model training. Thirdly, the knowledge distillation is leveraged to develop the transfer reinforcement learning framework to learn the accurate decision policy by reusing the pre-trained policy and utilizing the collected assembly simulation data. Finally, a case study is performed to demonstrate the effectiveness of the proposed method.
+ER  - 
+
+TY  - JOUR
+TI  - Cyber-physical system architecture of autonomous robot ecosystem for industrial asset monitoring
+AU  - Kivrak, H
+AU  - Karakusak, MZ
+AU  - Watson, S
+AU  - Lennox, B
+PY  - 2024
+DA  - 2024-03-15
+T2  - COMPUTER COMMUNICATIONS
+JO  - COMPUTER COMMUNICATIONS
+VL  - 218
+SP  - 72
+EP  - 84
+DO  - 10.1016/j.comcom.2024.02.013
+SN  - 0140-3664
+AB  - Driven by advancements in Industry 4.0, the Internet of Things (IoT), digital twins (DT), and cyber-physical systems (CPS), there is a growing interest in the digitalizing of asset integrity management. CPS, in particular, is a pivotal technology for the development of intelligent and interconnected systems. The design of a scalable, low-latency communication network with efficient data management is crucial for connecting physical and digital twins in heterogeneous robot fleets. This paper introduces a generalized cyber-physical architecture aimed at governing an autonomous multi-robot ecosystem via a scalable communication network. The objective is to ensure accurate and near-real-time perception of the remote environment by digital twins during robot missions. Our approach integrates techniques such as downsampling, compression, and dynamic bandwidth management to facilitate effective communication and cooperative inspection missions. This allow for efficient bi-directional data exchange between digital and physical twins, thereby enhancing the overall performance of the system. This study contributes to the ongoing research on the deployment of cyber-physical systems for heterogeneous multi-robot fleets in remote inspection missions. The feasibility of the approach has been demonstrated through simulations in a representative environment. In these experiments, a fleet of robots is used to map an unknown building and generate a common 3D probabilistic voxel-grid map, while evaluating and managing bandwidth requirements. This study represents a step forward towards the practical implementation of continuous remote inspection with multi-robot systems through cyber-physical infrastructure. It offers potential improvements in scalability, interoperability, and performance for industrial asset monitoring.
+KW  - Environmental Monitoring
+KW  - Industrial robots
+KW  - Machine design
+KW  - Internet of things
+KW  - Digital twins
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Multipurpose robots
+KW  - Network architecture
+KW  - Cooperative communication
+KW  - Bandwidth
+KW  - Bandwidth management
+KW  - Cooperative robotics
+KW  - Cyber–physical systems
+KW  - Ecosystems
+KW  - Electronic data interchange
+KW  - Environmental management
+KW  - Environmental monitoring
+KW  - Hazardous environment
+KW  - Industrial asset management
+KW  - Industrial Asset Management
+KW  - Information management
+KW  - Inspection
+KW  - Inspection robots
+KW  - Multi-robot mapping
+KW  - Multi-robot systems
+KW  - Multirobots
+KW  - Remote environmental inspection
+KW  - Robot mapping
+KW  - ROS
+ER  - 
+
+TY  - JOUR
+TI  - Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks
+AU  - Wang, ZY
+AU  - Sun, G
+AU  - Wang, YH
+AU  - Yu, HF
+AU  - Niyato, D
+PY  - 2026
+DA  - 2026
+T2  - IEEE TRANSACTIONS ON COGNITIVE COMMUNICATIONS AND NETWORKING
+JO  - IEEE TRANSACTIONS ON COGNITIVE COMMUNICATIONS AND NETWORKING
+VL  - 12
+SP  - 29
+EP  - 42
+DO  - 10.1109/TCCN.2025.3553297
+SN  - 2332-7731
+AB  - The Space-Air-Ground Integrated Network (SAGIN) framework is a crucial foundation for future networks, where satellites and aerial nodes assist in computational task offloading. The low-altitude economy, leveraging the flexibility and multifunctionality of Unmanned Aerial Vehicles (UAVs) in SAGIN, holds significant potential for development in areas such as communication and sensing. However, effective coordination is needed to streamline information exchange and enable efficient system resource allocation. In this paper, we propose a Clustering-based Multi-agent Deep Deterministic Policy Gradient (CMADDPG) algorithm to address the multi-UAV cooperative task scheduling challenges in SAGIN. The CMADDPG algorithm leverages dynamic UAV clustering to partition UAVs into clusters, each managed by a Cluster Head (CH) UAV, facilitating a distributed-centralized control approach. Within each cluster, UAVs delegate offloading decisions to the CH UAV, reducing intra-cluster communication costs and decision conflicts, thereby enhancing task scheduling efficiency. Additionally, by employing a multi-agent reinforcement learning framework, the algorithm leverages the extensive coverage of satellites to achieve centralized training and distributed execution of multi-agent tasks, while maximizing overall system profit through optimized task offloading decision-making. Simulation results reveal that the CMADDPG algorithm effectively optimizes resource allocation, minimizes queue delays, maintains balanced load distribution, and surpasses existing methods by achieving at least a 25% improvement in system profit, showcasing its robustness and adaptability across diverse scenarios.
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Air grounds
+KW  - Decision making
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Aircraft communication
+KW  - Resource allocation
+KW  - Tasks scheduling
+KW  - Nonlinear programming
+KW  - Cost reduction
+KW  - Multi agent
+KW  - Linear programming
+KW  - Satellite communication systems
+KW  - Load-Balancing
+KW  - reinforcement learning
+KW  - load balancing
+KW  - Integrated networks
+KW  - Space-air-ground integrated networks
+KW  - Space-air-ground integrated network
+KW  - Clusterings
+KW  - clustering algorithm
+KW  - task schedule
+KW  - Task schedule
+ER  - 
+
+TY  - JOUR
+TI  - Task Offloading in UAV-Assisted Mobile Cloud-Edge Computing Networks: An AoP-Aware HAPPO Approach
+AU  - Zhang, HL
+AU  - Du, J
+AU  - Jiang, CX
+AU  - Wang, JT
+AU  - Bader, F
+AU  - Debbah, M
+PY  - 2025
+DA  - 2025-09
+T2  - IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+JO  - IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+VL  - 74
+IS  - 9
+SP  - 14745
+EP  - 14759
+DO  - 10.1109/TVT.2025.3566431
+SN  - 0018-9545
+AB  - In recent years, unmanned aerial vehicles (UAVs) equipped with edge servers have emerged to expand service coverage. However, their inherent limitations in bandwidth, computational capacity, and energy resources restrict their ability to meet the demands of computation-intensive applications. To overcome these challenges, an air-ground collaborative mobile edge computing (MEC) network with enhanced resources is employed to improve Quality of Service (QoS). This network can provide support for a wide range of real-time applications where the computed results are critical. We adopt Age of Processing (AoP) as a metric to measure the freshness of processed results. This study investigates AoP-aware task offloading and resource allocation in a multi-UAV-assisted MEC system, optimizing the trade-off between user-experienced AoP and UAV energy consumption through joint design of user-UAV association, resource allocation, offloading ratios, and transmit power. To solve the formulated non-convex problem, we employ a cooperative Heterogeneous-Agent Proximal Policy Optimization (HAPPO) approach, utilizing a sequential policy update strategy within a centralized training, decentralized execution framework to mitigate inefficiencies from overlapping UAV coverage. Simulation results demonstrate that the proposed approach can achieve better performance compared with the other approaches.
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Computation offloading
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Drones
+KW  - deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - task offloading
+KW  - Task offloading
+KW  - Mobile cloud computing
+KW  - Micro air vehicle (MAV)
+KW  - Target drones
+KW  - Heterogeneous agents
+KW  - Age of processing
+KW  - Age of Processing(AoP)
+KW  - mobile cloud-edge computing
+KW  - Mobile cloud-edge computing
+KW  - Mobile clouds
+KW  - Processing-aware
+ER  - 
+
+TY  - JOUR
+TI  - GNN-LLM hybrid cognitive architectures for generative task adaptation in multi-human multi-robot collaborative disassembly
+AU  - Tong, XD
+AU  - Li, K
+AU  - Bao, JS
+PY  - 2026
+DA  - 2026-04
+T2  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+JO  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+VL  - 98
+DO  - 10.1016/j.rcim.2025.103169
+UR  - https://www.scopus.com/pages/publications/105018861444?origin=resultslist
+SN  - 0736-5845
+AB  - Traditional human-robot collaboration research has primarily focused on single human-robot dyads, yet faces significant challenges in addressing complex industrial scenarios characterized by concurrent multi-tasking, dynamic disturbances, and heterogeneous role coordination. Transitioning toward multi-human multi-robot collaboration (MHMRC) is crucial for achieving a significant leap in coordinated efficiency and manufacturing flexibility. To address this, we investigate a Hybrid Cognitive Digital Twin (HCDT) framework through generative knowledge-augmented paradigms. Our approach introduces a human-centric cognitive entity to generate task data and knowledge-driven strategies for MHMRC. This work demonstrates that integrating Large Language Models (LLMs) with Graph Neural Networks (GNNs) offers robust capabilities in comprehension, reasoning, ideally meeting MHMRC's requirements for handling unplanned operational variations as well as adapting to dynamic collaborative tasks. Furthermore, we demonstrate that compared to human-engineered precoding strategies, the HCDT-powered MHMRC system autonomously generates collaborative strategies for unscheduled tasks under more complex dynamic conditions and mission scenarios, enabling the execution of situations beyond conventional predefined patterns. The proposed methodology was validated in automotive lithium-ion battery (LIB) disassembly applications. Experimental results demonstrate its adaptability to dynamic collaborative tasks and generalization in generating strategies for unplanned operational variations within dynamic disassembly environments. This approach effectively overcomes various technical challenges to achieve autonomous collaboration in MHMRC systems through knowledge representation, task allocation, and collaborative optimization.
+KW  - Complex networks
+KW  - Digital twin
+KW  - Multipurpose robots
+KW  - Industrial research
+KW  - Language model
+KW  - Large language model
+KW  - Collaborative robots
+KW  - Knowledge representation
+KW  - Multi-robot collaboration
+KW  - Graph Neural Network
+KW  - Graph neural networks
+KW  - Digital Twin
+KW  - Collaborative tasks
+KW  - Large Language Model
+KW  - Cognitive architectures
+KW  - Collaboration systems
+KW  - Coordination reactions
+KW  - Generative AI
+KW  - Lithium battery disassembly
+KW  - Lithium Battery Disassembly
+KW  - Lithium-ion batteries
+KW  - Man machine systems
+KW  - Multi-human multi-robot collaboration
+KW  - Multi-human Multi-robot Collaboration
+ER  - 
+
+TY  - JOUR
+TI  - Deep Reinforcement Learning-Based Task Offloading With Collaborative Inference in UAV-Assisted Mobile Edge Computing Networks
+AU  - Zhai, XB
+AU  - Fu, S
+AU  - Yi, CY
+AU  - Liu, ZQ
+AU  - Dong, C
+AU  - Tan, CW
+PY  - 2026
+DA  - 2026-01
+T2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+JO  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL  - 27
+IS  - 1
+SP  - 472
+EP  - 482
+DO  - 10.1109/TITS.2025.3629117
+SN  - 1524-9050
+AB  - Intelligent air-ground integration communication is an emerging technology. Uncrewed aerial vehicles (UAVs) serve as mobile edge computing (MEC) servers in large-scale Internet of Things (IoT) applications, alleviating the computational load on ground users. Existing multi-UAV MEC approaches struggle with the complex computation and large data sizes of deep neural network tasks. To address these challenges, we propose a Deep Reinforcement Learning (DRL)-based DNN Partitioning and Dynamic Trajectory Selection (DPDTS) method, which reduces end-to-end latency and system energy consumption through task offloading and collaborative inference. Specifically, we propose an Optimal Partition Point Selection (OPPS) algorithm to minimize transmission overhead by selecting optimal partition points for DNN tasks. Then, we design a fairness-based matching algorithm to optimize user offloading and resource allocation. Finally, OPPS and matching algorithms are integrated to optimize UAV flight trajectories and user transmission power via DRL. The simulation results show that DPDTS outperforms existing benchmark methods in terms of delay and energy efficiency.
+KW  - Antennas
+KW  - Edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Internet of things
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Reinforcement learnings
+KW  - mobile edge computing
+KW  - Benchmarking
+KW  - deep reinforcement learning
+KW  - Deep reinforcement learning
+KW  - Task offloading
+KW  - Green computing
+KW  - Mobile telecommunication systems
+KW  - Deep neural networks
+KW  - multi-UAVs
+KW  - Uncrewed aerial vehicles
+KW  - Electric power transmission
+KW  - collaborative inference
+KW  - Collaborative inference
+KW  - Collaborative learning
+KW  - Dynamic trajectories
+KW  - Multi-uncrewed aerial vehicle
+KW  - Optimal partitions
+KW  - Point selection
+KW  - Transmissions
+ER  - 
+
+TY  - JOUR
+TI  - Toward a Generic Framework for Mission Planning and Execution with a Heterogeneous Multi-Robot System
+AU  - Denguir, M
+AU  - Touir, A
+AU  - Gazdar, A
+AU  - Qasem, S
+PY  - 2024
+DA  - 2024-11
+T2  - SENSORS
+JO  - SENSORS
+VL  - 24
+IS  - 21
+DO  - 10.3390/s24216881
+SN  - 1424-8220
+AB  - This paper presents a comprehensive framework for mission planning and execution with a heterogeneous multi-robot system, specifically designed to coordinate unmanned ground vehicles (UGVs) and unmanned aerial vehicles (UAVs) in dynamic and unstructured environments. The proposed architecture evaluates the mission requirements, allocates tasks, and optimizes resource usage based on the capabilities of the available robots. It then executes the mission utilizing a decentralized control strategy that enables the robots to adapt to environmental changes and maintain formation stability in both 2D and 3D spaces. The framework's architecture supports loose coupling between its components, enhancing system scalability and maintainability. Key features include a robust task allocation algorithm, and a dynamic formation control mechanism, using a ROS 2 communication protocol that ensures reliable information exchange among robots. The effectiveness of this framework is demonstrated through a case study involving coordinated exploration and data collection tasks, showcasing its ability to manage missions while optimizing robot collaboration. This work advances the field of heterogeneous robotic systems by providing a scalable and adaptable solution for multi-robot coordination in challenging environments.
+KW  - unmanned aerial vehicle
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Industrial robots
+KW  - Robot applications
+KW  - Aerial vehicle
+KW  - Unmanned aerial vehicle
+KW  - formation control
+KW  - Formation control
+KW  - UAV
+KW  - Multipurpose robots
+KW  - controlled study
+KW  - human
+KW  - information processing
+KW  - Task allocation
+KW  - article
+KW  - Intelligent robots
+KW  - Robot programming
+KW  - algorithm
+KW  - UGV
+KW  - task allocation
+KW  - mission planning
+KW  - Decentralised control
+KW  - Heterogeneous multi-robot system
+KW  - heterogeneous multi-robot systems
+KW  - decentralized control
+KW  - Microrobots
+KW  - Mission planning
+KW  - communication protocol
+KW  - control strategy
+KW  - environmental change
+KW  - formation stability
+KW  - Formation stability
+KW  - Mission execution
+KW  - Planning and execution
+KW  - Robust control
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Agent Deep Reinforcement Learning-Based Distributed Task Assignment in Multi-UAV Cooperative Edge Computing
+AU  - Zuo, WD
+AU  - Liao, ST
+AU  - Cui, YG
+AU  - Liu, T
+AU  - Cai, H
+AU  - Wan, SH
+PY  - 2026
+DA  - 2026-04
+T2  - IEEE TRANSACTIONS ON CLOUD COMPUTING
+JO  - IEEE TRANSACTIONS ON CLOUD COMPUTING
+VL  - 14
+IS  - 2
+SP  - 609
+EP  - 625
+DO  - 10.1109/TCC.2026.3668236
+UR  - https://www.scopus.com/pages/publications/105031650676?origin=resultslist
+SN  - 2168-7161
+AB  - Leveraging flexible deployment and wide-area coverage, UncrewedAerial Vehicles (UAVs) assisted edge computing (EC) extends computation capability to the network edge and has become a key paradigm for improving the quality of service in the Internet of Things. However, constrained by onboard resources, UAVs struggle to independently process massive heterogeneous tasks in real time. Existing studies mainly focus on cooperation between UAVs and ground devices or the cloud, while the coupled cooperative relationships among UAVs and the performance scalability in large-scale UAV networks remain insufficiently characterized. To this end, we propose a distributed task assignment framework for a multi-UAV cooperative EC system, where each UAV explicitly accounts for cooperation with other UAVs and, leveraging controllable mobility, assigns a portion of local tasks to other UAVs or base stations to minimize the long-term system-wide total latency. To address the resulting joint trajectory control and task assignment optimization problem, we first formulate it as a Markov decision process. We then propose a Multi-head self-Attention critic-assisted MADDPG (MA(2)DDPG) algorithm to train local online decision models for UAVs. Under the fully cooperative setting, we employ a centralized Critic to exploit global information and reduce parameter redundancy; concurrently, a multi-head self-attention mechanism is incorporated into the Critic to aggregate multi-UAV interaction information, delineate implicit cooperative dependencies, and alleviate the network input dimensionality curse arising from increasing UAV scale. Finally, extensive simulation experiments validate the effectiveness of the proposed method.
+KW  - Antennas
+KW  - Edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi agent systems
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Behavioral research
+KW  - Markov processes
+KW  - deep reinforcement learning
+KW  - Deep reinforcement learning
+KW  - Deep learning
+KW  - Quality of service
+KW  - Multi agent
+KW  - Quality-of-service
+KW  - task assignment
+KW  - Tasks assignments
+KW  - Combinatorial optimization
+KW  - Distributed tasks
+KW  - Wide area networks
+KW  - Area coverages
+KW  - Fault tolerant computer systems
+KW  - multi-uncrewed aerial vehicle (UAV) cooperation
+KW  - Multi-unmanned aerial vehicle cooperation
+KW  - Network edges
+ER  - 
+
+TY  - JOUR
+TI  - LLM-Based Adaptive Control Code Generation Framework with Digital Twin-Integrated Verification for Heterogeneous Robot Systems
+AU  - Lee, YH
+AU  - Nam, T
+AU  - Cho, DS
+AU  - Kim, WT
+PY  - 2026
+DA  - 2026-04-16
+T2  - APPLIED SCIENCES-BASEL
+JO  - APPLIED SCIENCES-BASEL
+VL  - 16
+IS  - 8
+DO  - 10.3390/app16083883
+UR  - https://www.scopus.com/pages/publications/105037038482?origin=resultslist
+SN  - 2076-3417
+AB  - High-Mix Low-Volume (HMLV) manufacturing increasingly relies on heterogeneous robot fleets, but automatic generation of vendor-specific robot control code remains difficult due to platform fragmentation and safety-critical feasibility constraints. Although recent Large Language Model (LLM)-based approaches have shown promise for translating natural language into robot programs, they remain largely limited to single-platform or simulation-oriented settings and are vulnerable to physical hallucination, including spatially inconsistent commands and dynamically infeasible motions. This paper proposes a Digital Twin-integrated verification framework for adaptive control code generation in heterogeneous robot systems. The framework uses a structured intermediate task representation to support runtime spatial grounding, robot selection, pre-execution dynamics validation, and adaptive motion scaling before vendor-specific code generation and execution. Evaluation on 170 task-description scenarios and eight robot selection tasks showed improved ranking discriminability in lightweight stress cases where conventional baselines exhibited limited separation. In addition, adaptive dynamics scaling enabled safe execution in all analytically verified test cases, compared with 50% without scaling. These results suggest that Digital Twin-grounded verification and adaptive feasibility control can improve the reliability of LLM-based multi-vendor robot programming and help mitigate physical hallucination in heterogeneous robot systems.
+KW  - Industrial robots
+KW  - Digital twin
+KW  - Article
+KW  - digital twin
+KW  - human
+KW  - decision making
+KW  - large language model
+KW  - Robot programming
+KW  - Adaptive control systems
+KW  - Language model
+KW  - simulation
+KW  - Simulation platform
+KW  - reliability
+KW  - Heterogeneous robots
+KW  - heterogeneous robots
+KW  - Digital Twin
+KW  - Safety engineering
+KW  - adaptive scaling
+KW  - Adaptive scaling
+KW  - Automatic programming
+KW  - Codes (symbols)
+KW  - conceptual framework
+KW  - downstream processing
+KW  - dynamic programming
+KW  - Dynamic validation
+KW  - dynamics validation
+KW  - Electric grounding
+KW  - fragmentation reaction
+KW  - hallucination
+KW  - High-mix low-volume manufacturing
+KW  - High-mix/low volumes
+KW  - HMLV manufacturing
+KW  - Large language model-based code generation
+KW  - LLM-based code generation
+KW  - Model based code generation
+KW  - natural language processing
+KW  - physical hallucination
+KW  - Physical hallucination
+KW  - social hierarchy
+KW  - Volume manufacturing
+ER  - 
+
+TY  - JOUR
+TI  - Safe and Energy-Efficient Trajectory Planning for Heterogeneous Multi-UAV Enabled Mobile Edge Computing
+AU  - Zhang, XL
+AU  - Jia, RH
+AU  - Yin, QJ
+AU  - Zheng, ZL
+AU  - Li, ML
+PY  - 2026
+DA  - 2026-04
+T2  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+JO  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL  - 25
+IS  - 4
+SP  - 5648
+EP  - 5665
+DO  - 10.1109/TMC.2025.3632884
+UR  - https://www.scopus.com/pages/publications/105021858874?origin=resultslist
+SN  - 1536-1233
+AB  - Mobile edge computing (MEC) has recently gained significant attention as a promising solution for processing delay-sensitive and resource-intensive computational jobs. Existing system schedulers in MEC networks typically assume homogeneous service providers, uniformly distributed user equipment (UE), and identical service requirements, making them unsuitable for practical MEC scenarios where jobs are randomly generated with varying service and completion time requirements. Thus, in this work, we jointly optimize job scheduling and resource allocation in a heterogeneous multi-unmanned aerial vehicle (UAV) enabled MEC network, considering practical factors such as diverse service requirements of jobs, unknown distribution of UEs, and spatial-temporal job arrivals. We aim to reduce the overall job miss rate and the average energy consumption of both UAVs and UEs by jointly planning safe UAV trajectories and onboard resource allocation. To learn uncertain and dynamic UE-side states (e.g., job arrivals and mobility patterns) and ensure the UAV's safety during the flight, we propose a multi-agent safe reinforcement learning algorithm that combines a Shared Soft Actor-Critic architecture for extracting features of heterogeneous UAVs and a two-agent Markov Game of Intervention mechanism for collision avoidance, named SSAC-MGI. In particular, SSAC-MGI further incorporates a fine-grained resource allocation scheme to improve onboard resource utilization and reduce job miss rate. Extensive real trace-driven simulations based on Alibaba cluster data validate the effectiveness and superiority of SSAC-MGI, compared with several state-of-the-art algorithms.
+KW  - Antennas
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Learning algorithms
+KW  - Multi agent systems
+KW  - Energy utilization
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Resource allocation
+KW  - resource allocation
+KW  - Resources allocation
+KW  - Trajectories
+KW  - Multi-unmanned aerial vehicle system
+KW  - Unmanned aerial vehicle systems
+KW  - Green computing
+KW  - Quality of service
+KW  - Machine learning
+KW  - Trajectory Planning
+KW  - Clustering algorithms
+KW  - Job shop scheduling
+KW  - Distributed computer systems
+KW  - cooperative trajectory planning
+KW  - Cooperative trajectory planning
+KW  - job scheduling
+KW  - Jobs scheduling
+KW  - multi-UAV system
+KW  - safe reinforcement learning
+KW  - Safe reinforcement learning
+ER  - 
+
+TY  - JOUR
+TI  - Guarded Swarms: Building Trusted Autonomy Through Digital Intelligence and Physical Safeguards
+AU  - Borghoff, UM
+AU  - Bottoni, P
+AU  - Pareschi, R
+PY  - 2026
+DA  - 2026-01-21
+T2  - FUTURE INTERNET
+JO  - FUTURE INTERNET
+VL  - 18
+IS  - 1
+DO  - 10.3390/fi18010064
+UR  - https://www.scopus.com/pages/publications/105029081288?origin=resultslist
+SN  - 1999-5903
+AB  - Autonomous UAV/UGV swarms increasingly operate in contested environments where purely digital control architectures are vulnerable to cyber compromise, communication denial, and timing faults. This paper presents Guarded Swarms, a hybrid framework that combines digital coordination with hardware-level analog safety enforcement. The architecture builds on Topic-Based Communication Space Petri Nets (TB-CSPN) for structured multi-agent coordination, extending this digital foundation with independent analog guard channels-thrust clamps, attitude limiters, proximity sensors, and emergency stops-that operate in parallel at the actuator interface. Each channel can unilaterally veto unsafe commands within microseconds, independently of software state. The digital-analog interface is formalized via timing contracts that specify sensor-consistency windows and actuation latency bounds. A two-robot case study demonstrates token-based arbitration at the digital level and OR-style inhibition at the analog level. The framework ensures local safety deterministically while maintaining global coordination as a best-effort property. This paper presents an architectural contribution establishing design principles and interface contracts. Empirical validation remains future work.
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Embedded systems
+KW  - Autonomous agents
+KW  - Multi agent systems
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Swarm intelligence
+KW  - Intelligent agents
+KW  - Interface states
+KW  - agentic AI
+KW  - Agentic AI
+KW  - Autonomous UAV
+KW  - Contested environment
+KW  - contested environments
+KW  - digital–analog integration
+KW  - Digital–analog integration
+KW  - Guarded swarm
+KW  - guarded swarms
+KW  - Hybrid cybe–physical system
+KW  - hybrid cyber–physical systems
+KW  - resilient autonomy
+KW  - Resilient autonomy
+KW  - UAV/UGV swarm
+KW  - UAV/UGV swarms
+ER  - 
+
+TY  - JOUR
+TI  - CoMuRoS - An LLM-based generalizable hierarchical task planning and execution framework for heterogeneous robot teams with event-driven re-planning
+AU  - Borate, S
+AU  - Rai, BB
+AU  - Pardeshi, V
+AU  - Vadali, M
+PY  - 2026
+DA  - 2026-08-04
+T2  - FRONTIERS IN ROBOTICS AND AI
+JO  - FRONTIERS IN ROBOTICS AND AI
+VL  - 13
+DO  - 10.3389/frobt.2026.1843313
+SN  - 2296-9144
+AB  - Heterogeneous multi-robot teams require systems that can interpret natural-language goals, allocate tasks, and adapt to unexpected events. We developed CoMuRoS (Collaborative Multi-Robot System), a generalizable hierarchical architecture combining a centralized task-manager LLM with decentralized robot-level LLMs for executable Python generation from primitive ROS2 skills. The task manager uses static planning rules and dynamic context, including task history, robot/task status, and detected events, while onboard perception using VLM/image processing classifies events as relevant or irrelevant and triggers replanning. Hardware experiments demonstrated recovery from disruptive events, filtering of irrelevant distractions, and coordinated transport with emergent human-robot cooperation, achieving success rates of 9/10 for collaborative object recovery, 8/8 for coordinated transport, and 5/5 for human-assisted recovery. Simulation studies demonstrated intention-aware replanning. A curated benchmark of 22 scenarios, 54 tasks, and around 20 robots evaluated task allocation, classification, IoU, executability, and correctness across multiple LLMs, with correctness up to 0.91 +/- 0.053; a 20-scenario replanning benchmark achieved Correctness = 0.948 +/- 0.034 using Grok 3. CoMuRoS enables runtime, event-driven replanning on physical robots and supports flexible multi-robot and human-robot collaboration across diverse scenarios.
+ER  - 
+
+TY  - JOUR
+TI  - Joint Optimization of Task Offloading, Resource Allocation, and Trajectory Design in Cooperative Multi-UAV MEC Networks
+AU  - Wang, Q
+AU  - Ma, XQ
+AU  - Jiang, Z
+AU  - Zhu, YX
+AU  - Xia, WC
+AU  - Chen, M
+AU  - Zhao, HS
+PY  - 2026
+DA  - 2026-06-01
+T2  - IEEE INTERNET OF THINGS JOURNAL
+JO  - IEEE INTERNET OF THINGS JOURNAL
+VL  - 13
+IS  - 11
+SP  - 24413
+EP  - 24425
+DO  - 10.1109/JIOT.2026.3673398
+UR  - https://www.scopus.com/pages/publications/105033537728?origin=resultslist
+SN  - 2327-4662
+AB  - Uncrewed aerial vehicle (UAV)-assisted mobile edge computing (MEC) systems provide flexible and resilient computing capabilities for mobile users by leveraging UAVs as edge servers (ESs). However, in practical deployments, user devices typically exhibit spatially nonuniform distributions, which impose significant challenges for achieving optimal UAV placement. Conventional fixed or predetermined deployment strategies cannot dynamically adapt to heterogeneous user distributions. To overcome these challenges, this article investigates an air-ground cooperative MEC architecture comprising multiple UAVs and terrestrial ESs. A multiobjective optimization problem incorporating UAV trajectory optimization is formulated to jointly minimize task offloading latency and total system energy consumption. As the problem is an NP-hard mixed-integer nonlinear programming (MINLP) model, a joint alternating optimization framework for task offloading, resource allocation, and UAV trajectory control (JAOTRU) is proposed. The JAOTRU framework adopts an iterative block coordinate descent (BCD) structure to decouple the highly coupled optimization variables into two subproblems, which are efficiently solved via a differential evolution (DE) algorithm and a successive convex approximation (SCA) technique, respectively. The simulation results show that the proposed JAOTRU method substantially surpasses several benchmark methods regarding total offloading latency and system energy efficiency, validating its effectiveness and robustness for MEC systems assisted by UAVs.
+KW  - Antennas
+KW  - Edge computing
+KW  - Mobile edge computing
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Energy efficiency
+KW  - Mobile edge computing (MEC)
+KW  - Resource allocation
+KW  - Computing system
+KW  - resource allocation
+KW  - Resources allocation
+KW  - task offloading
+KW  - Task offloading
+KW  - Trajectories
+KW  - Joint optimization
+KW  - Trajectory designs
+KW  - Green computing
+KW  - Integer programming
+KW  - Approximation algorithms
+KW  - Iterative methods
+KW  - Mobile telecommunication systems
+KW  - Nonlinear programming
+KW  - Evolutionary algorithms
+KW  - Multiobjective optimization
+KW  - Edge server
+KW  - Vehicle trajectories
+KW  - trajectory design
+KW  - Uncrewed aerial vehicles
+KW  - Approximation theory
+KW  - uncrewed aerial vehicle (UAV) deployment
+KW  - Uncrewed aerial vehicle deployment
+ER  - 
+
+TY  - JOUR
+TI  - Joint UAV Trajectory Optimization and Edge-End Resource Coordination via Lyapunov-Guided Multi-Agent DRL
+AU  - Yan, HF
+AU  - Zhang, XL
+AU  - Qiang, SH
+AU  - Xie, X
+PY  - 2026
+DA  - 2026-05
+T2  - IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+JO  - IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+VL  - 72
+IS  - 2
+SP  - 3830
+EP  - 3847
+DO  - 10.1109/TCE.2025.3649242
+UR  - https://www.scopus.com/pages/publications/105026462859?origin=resultslist
+SN  - 0098-3063
+AB  - The convergence of aerial computing and edge intelligence has significantly increased the demand for task offloading, placing considerable strain on limited wireless and edge resources. This paper proposes a lightweight collaborative scheduling algorithm for heterogeneous edge systems, where Industrial Internet of Things devices (IoTDs) partially offload computational tasks to multiple unmanned aerial vehicles (UAVs) equipped with edge capabilities. The problem is formulated as a multi-stage stochastic Mixed-Integer Nonlinear Programming (MINLP) problem that jointly optimizes task partitioning, transmission power, local computing frequency, and multi-UAV trajectories under dynamic channel, mobility, and energy constraints. Using Lyapunov optimization, the long-term problem is decomposed into per-slot deterministic subproblems, ensuring queue stability and bounded average energy consumption. Each subproblem is modeled as a Multi-Agent Markov Decision Process (MDP), in which the reward function incorporates both the overall system energy consumption cost and the difference rewards among multiple agents. We develop a Multi-Agent Deep Reinforcement Learning (MADRL) algorithm based on the Actor-Critic(AC) framework, integrating target networks and dual estimators to enhance training stability. A stepwise epsilon-greedy strategy is employed to balance exploration and exploitation. The proposed framework supports centralized training with decentralized execution, enabling scalable multi-UAV coordination. The simulation results demonstrate an improved convergence speed, reduced energy consumption, and more efficient UAV trajectory planning compared to baseline methods.
+KW  - Antennas
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Internet of things
+KW  - Learning algorithms
+KW  - Optimisations
+KW  - Multi agent systems
+KW  - Reinforcement learnings
+KW  - Aerial vehicle
+KW  - Unmanned aerial vehicle
+KW  - Behavioral research
+KW  - Markov processes
+KW  - task offloading
+KW  - Task offloading
+KW  - Deep learning
+KW  - Trajectories
+KW  - Intelligent agents
+KW  - Scheduling algorithms
+KW  - Lyapunov optimization
+KW  - Multi agent
+KW  - multi-agent deep reinforcement learning
+KW  - Multi-agent deep reinforcement learning
+KW  - Edge intelligence
+KW  - Unmanned aerial vehicles
+KW  - lightweight edge intelligence
+KW  - Lightweight edge intelligence
+ER  - 
+
+TY  - JOUR
+TI  - Hybrid Coordination Framework for Centralized Task Allocation and Execution in Heterogeneous Multi-Robot Systems
+AU  - Varghese, TG
+AU  - Kochuvila, S
+AU  - Kumar, N
+AU  - Prasad, RRV
+PY  - 2026
+DA  - 2026
+T2  - IEEE ACCESS
+JO  - IEEE ACCESS
+VL  - 14
+SP  - 61573
+EP  - 61595
+DO  - 10.1109/ACCESS.2026.3680629
+SN  - 2169-3536
+AB  - Multi-robot coordination has emerged as a critical enabler for efficient warehouse logistics, yet existing approaches struggle to balance solution quality, computational efficiency, and real-time adaptability in heterogeneous robot environments. This paper presents a novel centralized coordination architecture that integrates a hybrid optimization algorithm combining the shapley value clustering algorithm (SVCA) with the non-dominated sorting genetic algorithm II (NSGA-II) for multi-robot task allocation (MRTA). The proposed system addresses the complex challenge of allocating logistics tasks to heterogeneous mobile robots with varying payload capacities, energy consumption rates, and task deadline while simultaneously optimizing multiple conflicting objectives including makespan, energy consumption, deadline adherence, and workload balance. Unlike traditional static scheduling methods, the proposed system includes dynamic task reallocation capabilities that enable robots to autonomously detect and execute pending tasks nearby upon completion, be it with intelligent battery management that triggers autonomous recharging when energy thresholds are reached. Implemented using robot operating system 2 (ROS2) Humble and validated in Gazebo simulation environments with warehouse scenarios involve five heterogeneous robots and multiple logistics tasks. Experimental results show that, with the hybrid algorithm, 100% task allocation can be achieved with an average allocation time of 0.122 seconds, significantly outperforming state-of-the-art methods including island model genetic algorithm (IMGA), SVCA, particle swarm optimization (PSO), genetic algorithm (GA), and standalone NSGA-II executions. The system effectively manages complex logistics operations to automate the warehouse within the simulated environment, while maintaining required constraint.
+KW  - Feedback
+KW  - task allocation
+KW  - Radio broadcasting
+KW  - Broadcasting
+KW  - heterogeneous robots
+KW  - Broadcast technology
+KW  - Circuits
+KW  - Feeds
+KW  - Frequency modulation
+KW  - gazebo
+KW  - Military aircraft
+KW  - Multi-robot system (MRS)
+KW  - multi-robot task allocation (MRTA)
+KW  - non-dominated sorting genetic algorithm-II (NSGA-II)
+KW  - Payloads
+KW  - robot operating system (ROS2)
+KW  - RViz
+KW  - shapley value clustering algorithm (SVCA)
+KW  - Space technology
+ER  - 
+
+TY  - JOUR
+TI  - Generation of Critical Information and Sharing Mechanism for Multi-Robot Mission Success
+AU  - Jo, D
+AU  - Kwon, Y
+PY  - 2025
+DA  - 2025
+T2  - IEEE ACCESS
+JO  - IEEE ACCESS
+VL  - 13
+SP  - 146855
+EP  - 146873
+DO  - 10.1109/ACCESS.2025.3600319
+UR  - https://www.scopus.com/pages/publications/105013765892?origin=resultslist
+SN  - 2169-3536
+AB  - This paper shows a real-time information-sharing mechanism and custom task allocation strategy for cooperative multi-robot systems operating in uncertain and dynamic environments. The proposed method is based on a decentralized, asynchronous architecture utilizing the Quality of Service (QoS) features of the Robot Operating System 2 (ROS2) framework and Data Distribution Service (DDS) middleware. To validate its practical applicability, extensive simulation experiments and real-world robot tests were conducted using mobile robot platforms under varying network conditions. Key performance metrics including message delay, reaction time, packet loss, and mission success rate were evaluated across multi-QoS configurations. Results show that Reliable and Transient Local settings provide the most consistent performance, ensuring stable obstacle information transmission and robust map updates even in environments with significant communication constraints. Additionally, comparisons between simulation and physical experiments reveal the impact of system-level variables such as synchronization error, network behavior, and sensor noise. The findings confirm the robustness and adaptability of the proposed approach and demonstrate its potential to serve as a scalable framework for future heterogeneous multi-robot deployments.
+KW  - Industrial robots
+KW  - Mobile robots
+KW  - Robot kinematics
+KW  - Robots
+KW  - Quality of service
+KW  - Multipurpose robots
+KW  - Swarm intelligence
+KW  - Resource management
+KW  - Reliability
+KW  - Task allocation
+KW  - Multi-robot systems
+KW  - Robot learning
+KW  - Quality-of-service
+KW  - Robot Operating System
+KW  - Scalability
+KW  - Swarm robotics
+KW  - Simultaneous localization and mapping
+KW  - Real-time systems
+KW  - swarm robotics
+KW  - distributed algorithms
+KW  - task allocation
+KW  - Robustness
+KW  - QoS
+KW  - Distributed computer systems
+KW  - Data communication systems
+KW  - Information dissemination
+KW  - Information sharing
+KW  - Data distribution services
+KW  - AI-based robotics
+KW  - AI-enabled multi-robot systems
+KW  - autonomous robots
+KW  - DDS
+KW  - information sharing mechanism
+KW  - map sharing
+KW  - mobile robot system
+KW  - MRS
+KW  - multi-robot cooperation
+KW  - real-time communication
+KW  - ROS2
+KW  - Robot operating system 2
+KW  - Multi-robot cooperation
+KW  - AI-based robotic
+KW  - AI-enabled multi-robot system
+KW  - Data quality
+KW  - Information analysis
+KW  - Information sharing mechanism
+KW  - Map sharing
+KW  - Mobile robot systems
+KW  - Real-time communication
+KW  - Time sharing systems
+ER  - 
+
+TY  - JOUR
+TI  - Task Offloading with LLM-Enhanced Multi-Agent Reinforcement Learning in UAV-Assisted Edge Computing
+AU  - Zhu, F.
+AU  - Huang, F.
+AU  - Yu, Y.
+AU  - Liu, G.
+AU  - Huang, T.
+PY  - 2025
+DA  - 2025
+T2  - Sensors
+JO  - Sensors
+VL  - 25
+IS  - 1
+DO  - 10.3390/s25010175
+UR  - https://www.scopus.com/pages/publications/85214466090?origin=resultslist
+AB  - Unmanned aerial vehicles (UAVs) furnished with computational servers enable user equipment (UE) to offload complex computational tasks, thereby addressing the limitations of edge computing in remote or resource-constrained environments. The application of value decomposition algorithms for UAV trajectory planning has drawn considerable research attention. However, existing value decomposition algorithms commonly encounter obstacles in effectively associating local observations with the global state of UAV clusters, which hinders their task-solving capabilities and gives rise to reduced task completion rates and prolonged convergence times. To address these challenges, this paper introduces an innovative multi-agent deep learning framework that conceptualizes multi-UAV trajectory optimization as a decentralized partially observable Markov decision process (Dec-POMDP). This framework integrates the QTRAN algorithm with a large language model (LLM) for efficient region decomposition and employs graph convolutional networks (GCNs) combined with self-attention mechanisms to adeptly manage inter-subregion relationships. The simulation results demonstrate that the proposed method significantly outperforms existing deep reinforcement learning methods, with improvements in convergence speed and task completion rate exceeding 10%. Overall, this framework significantly advances UAV trajectory optimization and enhances the performance of multi-agent systems within UAV-assisted edge computing environments. © 2024 by the authors.
+KW  - Edge computing
+KW  - unmanned aerial vehicle
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Computation offloading
+KW  - Reinforcement learning
+KW  - Aerial vehicle
+KW  - Unmanned aerial vehicle
+KW  - Markov processes
+KW  - deep reinforcement learning
+KW  - Deep reinforcement learning
+KW  - Deep learning
+KW  - UAV
+KW  - Intelligent agents
+KW  - controlled study
+KW  - human
+KW  - trajectory planning
+KW  - Trajectory Planning
+KW  - article
+KW  - large language model
+KW  - learning
+KW  - Multi agent
+KW  - Vehicle trajectories
+KW  - algorithm
+KW  - Constrained optimization
+KW  - Cluster computing
+KW  - decomposition
+KW  - deep learning
+KW  - Graph algorithms
+KW  - Language model
+KW  - Large language model
+KW  - LLM
+KW  - Markov decision process
+KW  - multi-agent deep learning
+KW  - Multi-agent deep learning
+KW  - multi-agent system
+KW  - Multi-task learning
+KW  - Problem oriented languages
+KW  - simulation
+KW  - Value decomposition
+KW  - velocity
+ER  - 
+
+TY  - JOUR
+TI  - Exploring the synergy of human-robot teaming, digital twins, and machine learning in Industry 5.0: a step towards sustainable manufacturing
+AU  - Langås, E.F.
+AU  - Zafar, M.H.
+AU  - Sanfilippo, F.
+PY  - 2026
+DA  - 2026
+T2  - Journal of Intelligent Manufacturing
+JO  - Journal of Intelligent Manufacturing
+VL  - 37
+IS  - 3
+SP  - 999
+EP  - 1022
+DO  - 10.1007/s10845-025-02580-x
+UR  - https://www.scopus.com/pages/publications/85219577277?origin=resultslist
+AB  - Sustainable manufacturing remains a central objective of Industry 5.0. By successfully implementing harmonic human-robot teams in intelligent industrial systems, the efficiency and well-being of human workers can be increased. Achieving this requires a gradual approach from caged robots to advanced, seamless collaboration between humans and robots. Initially, that means transitioning to human-robot interaction (HRI) where there is an exchange of commands between the human and the robot. Further advancements within safety considerations, including collision avoidance through advanced machine vision, enable the exchange of workspace that defines human-robot collaboration (HRC). The next stage is physical HRC (pHRC) which requires safe and controlled exchange of forces through impedance and admittance control. Finally, this paper describes human-robot teaming (HRT), which is defined by the exchange of solutions as teammates. This is enabled by combining cutting-edge technologies such as digital twin (DT), advanced vision sensors, machine learning (ML) algorithms and mixed reality (MR) human–machine interfaces for operators. A key contribution of this work is reviewing the integration of HRT with DT and ML, highlighting how these technologies enable seamless perception, prediction, and decision-making in human-centric industrial systems. By reviewing these technologies, the paper highlights current challenges, limitations and research gaps within the field of HRT and suggests potential future possibilities for HRT, such as advanced disassembly of used goods for a more sustainable manufacturing industry. © The Author(s) 2025.
+KW  - Industrial robots
+KW  - Artificial intelligence
+KW  - Digital twin
+KW  - Machine learning
+KW  - Smart manufacturing
+KW  - Intelligent robots
+KW  - Robot learning
+KW  - Machine-learning
+KW  - Human robot interaction
+KW  - Human robots
+KW  - Human-robot collaboration
+KW  - Human-robot teaming
+KW  - Human-robot-team
+KW  - Industrial systems
+KW  - Industry 5.0
+KW  - Sustainable manufacturing
+KW  - Well being
+KW  - Workers'
+ER  - 
+
+TY  - JOUR
+TI  - Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems
+AU  - Lajoie, P.-Y.
+AU  - Beltrame, G.
+PY  - 2024
+DA  - 2024
+T2  - IEEE Robotics and Automation Letters
+JO  - IEEE Robotics and Automation Letters
+VL  - 9
+IS  - 1
+SP  - 475
+EP  - 482
+DO  - 10.1109/LRA.2023.3333742
+UR  - https://www.scopus.com/pages/publications/85178017203?origin=resultslist
+AB  - Collaborative Simultaneous Localization And Mapping (C-SLAM) is a vital component for successful multi-robot operations in environments without an external positioning system, such as indoors, underground or underwater. In this paper, we introduce Swarm-SLAM, an open-source C-SLAM system that is designed to be scalable, flexible, decentralized, and sparse, which are all key properties in swarm robotics. Our system supports lidar, stereo, and RGB-D sensing, and it includes a novel inter-robot loop closure prioritization technique that reduces communication and accelerates convergence. We evaluated our ROS 2 implementation on five different datasets, and in a real-world experiment with three robots communicating through an ad-hoc network. © 2016 IEEE.
+KW  - Industrial robots
+KW  - Optimisations
+KW  - Multipurpose robots
+KW  - Multi-robot systems
+KW  - Multirobots
+KW  - Intelligent robots
+KW  - Robot learning
+KW  - Ad hoc networks
+KW  - Collaboration
+KW  - Collaborative robots
+KW  - Robot Operating System
+KW  - Robot operations
+KW  - swarm intelligence
+KW  - Decentralised
+KW  - Mapping
+KW  - Simultaneous localization and mapping
+KW  - collaborative perception
+KW  - Collaborative perception
+KW  - multi-robot systems
+KW  - Open systems
+KW  - Optical radar
+KW  - Robot vision
+KW  - Robot vision systems
+KW  - SLAM
+ER  - 
+
+TY  - JOUR
+TI  - A Fresh Look at Routing Protocols in Unmanned Aerial Vehicular Networks: A Survey
+AU  - Mansoor, N.
+AU  - Hossain, M.I.
+AU  - Rozario, A.
+AU  - Zareei, M.
+AU  - Arreola, A.R.
+PY  - 2023
+DA  - 2023
+T2  - IEEE Access
+JO  - IEEE Access
+VL  - 11
+SP  - 66289
+EP  - 66308
+DO  - 10.1109/ACCESS.2023.3290871
+UR  - https://www.scopus.com/pages/publications/85163500367?origin=resultslist
+AB  - The use of Unmanned Aerial Vehicles (UAVs) or drones has grown rapidly in both civilian and military operations over the last few decades. Multi-UAV systems are preferred to single-UAV systems, as they are more efficient and cost-effective when completing missions collaboratively. However, like other ad-hoc networks, UAV networks face the challenge of effective communication. Existing research in mobile ad-hoc networks (MANETs) and vehicular ad-hoc networks (VANETs) does not fully address the unique characteristics of UAV networks, which can exhibit varying levels of dynamism, intermittent links, and fluid topology. Moreover, drones need to communicate with each other and ground stations in Flying Ad-hoc Networks. Therefore, routing protocols in such networks must select the most effective paths for communication while ensuring reliable and stable data transmission. This article examines several recently developed routing protocols in UAV communication, detailing their construction methods. As routing is quite challenging in UAVs, where communication performance depends on various factors, this research introduces performance metrics to analyze the efficiency of these protocols. Routing protocols in UAV networks must adapt to high mobility, dynamic topology, intermittent links, power constraints, and changing link quality. Since the lifespan of UAV nodes is limited, seamless handovers are crucial, and the energy efficiency of protocols at different layers should also be considered. Although the reviewed protocols address several aspects of designing routing protocols for UAV communication, some challenges remain. Thus, this article provides a comprehensive exploration of routing protocols in UAV communication, along with a discussion of some open research areas. © 2013 IEEE.
+KW  - Antennas
+KW  - Energy efficiency
+KW  - Aerial vehicle
+KW  - Unmanned aerial vehicle
+KW  - Vehicle network
+KW  - Ad-hoc networks
+KW  - Drones
+KW  - Military vehicles
+KW  - Unmanned aerial vehicle systems
+KW  - Topology
+KW  - Vehicle communications
+KW  - FANET
+KW  - routing protocol
+KW  - Routing-protocol
+KW  - Vehicular ad hoc networks
+KW  - ad-hoc network
+KW  - Cost effectiveness
+KW  - Internet protocols
+KW  - Military operations
+KW  - multi-path communication
+KW  - Multi-path communication
+KW  - Multipath
+KW  - Routing protocols
+ER  - 
+
+TY  - JOUR
+TI  - Joint Optimization of Sensing, Communication, and Computing for Collaborative Multi-UAV Edge Computing System
+AU  - H. Zhao
+AU  - M. Luan
+AU  - M. Liyanage
+AU  - Z. Chang
+PY  - 2026
+DA  - 2026
+T2  - IEEE Transactions on Wireless Communications
+JO  - IEEE Transactions on Wireless Communications
+VL  - 25
+SP  - 1272
+EP  - 1286
+DO  - 10.1109/TWC.2025.3590253
+SN  - 1558-2248
+AB  - Unmanned aerial vehicle (UAV) and high-altitude platform (HAP)-enabled aerial edge computing (AEC) networks facilitate diverse Internet of Things (IoT) applications. In this paper, we investigate the average task completion time and energy consumption by jointly optimizing sensing, communication and computing in cooperative AEC networks facilitated by multiple UAVs and HAP. The sensing times, multi-UAV trajectories, transmission power control, offloading strategy and communication resource allocation are jointly optimized. We transform the original optimization problem into minimizing the average task completion time while ensuring energy consumption stability by introducing Lyapunov optimization theory. The problem is then decomposed into multiple subproblems, which are solved through numerical analysis, successive convex approximation, and the Dinkelbach algorithm, respectively. These algorithms are embedded into the proximal policy optimization (PPO)-based multi-agent deep reinforcement learning (MADRL) framework to speed up the convergence performance of the MADRL model. Simulation results demonstrate that the proposed algorithm achieves superior performance in terms of average task completion time and energy consumption.
+KW  - aerial edge computing
+KW  - Autonomous aerial vehicles
+KW  - Energy consumption
+KW  - Integrated sensing and communication
+KW  - Internet of Things
+KW  - multi-agent deep reinforcement learning
+KW  - Optimization
+KW  - resource management
+KW  - Resource management
+KW  - Robot sensing systems
+KW  - Sensors
+KW  - Trajectory
+KW  - UAV
+KW  - Uplink
+ER  - 
+
+TY  - JOUR
+TI  - ARCog-NET: An Aerial Robot Cognitive Network Architecture for Swarm Applications Development
+AU  - G. S. Ramos
+AU  - F. D. R. Henriques
+AU  - D. B. Haddad
+AU  - F. A. A. Andrade
+AU  - M. F. Pinto
+PY  - 2024
+DA  - 2024
+T2  - IEEE Access
+JO  - IEEE Access
+VL  - 12
+SP  - 129040
+EP  - 129063
+DO  - 10.1109/ACCESS.2024.3456914
+SN  - 2169-3536
+AB  - This work presents an advanced cognitive architecture for networked aerial robots to implement autonomous swarm systems effectively. It focuses on designing, implementing, and evaluating an architecture that enables unmanned aerial vehicles (UAVs) to coordinate and cooperate for complex tasks, with or without human intervention. Inspired by artificial intelligence, cognitive science, and robotics, the architecture integrates perception, planning, decision-making, and adaptive learning to optimize swarm behavior in dynamic environments. The architecture uses a distributed processing model based on the “edge-fog-cloud” (EFC) concept. Edge-level robots handle real-time data collection, local decision-making, and environmental perception. Fog-level vehicles manage intermediate processing and supervision of the groups, while cloud servers perform comprehensive data analysis and long-term storage, being the higher-level hierarchy of the framework. This structure allows efficient distribution of computational tasks, with critical decisions made at the robot level and complex analysis done in the fog or cloud. The implementation of ARCog-NET involves deploying a multi-agent simulation system using the Robot Operating System (ROS) and Gazebo simulator, facilitating the integration of sensors, communication protocols, and data processing algorithms. The performance evaluation demonstrates the architecture’s effectiveness in a wind farm inspection scenario, where the UAV swarm exhibits improved trajectory planning, collision avoidance, and data processing efficiency. Simulation results show that ARCog-NET reduces latency, increases data throughput, and enhances operational effectiveness, providing a robust platform for future developers to focus on applications and direct robot control methods.
+KW  - Autonomous aerial vehicles
+KW  - autonomy of aerial robots
+KW  - Cloud computing
+KW  - Cognitive architecture
+KW  - Computer architecture
+KW  - Decision making
+KW  - distributed data processing
+KW  - Distributed databases
+KW  - Edge computing
+KW  - edge-fog-cloud technologies
+KW  - Network architecture
+KW  - Real-time systems
+KW  - Robot kinematics
+KW  - Robots
+KW  - swarm systems
+ER  - 
+
+TY  - JOUR
+TI  - Toward Effective Communication Management in Cooperative Robotic-Enabled Healthcare Systems: Open Challenges and Future Research Directions
+AU  - M. Adil
+AU  - M. Khurram Khan
+AU  - A. Ali
+AU  - H. Abulkasim
+AU  - A. Farouk
+AU  - H. Herbert Song
+AU  - Z. Jin
+PY  - 2026
+DA  - 2026-02-01
+T2  - IEEE Internet of Things Journal
+JO  - IEEE Internet of Things Journal
+VL  - 13
+IS  - 3
+SP  - 3743
+EP  - 3781
+DO  - 10.1109/JIOT.2025.3631333
+SN  - 2327-4662
+AB  - Cooperative robotic healthcare systems (CRHSs) are advanced technologies that enhance medical services by allowing robots to collaborate with healthcare professionals, making clinical practices safer and more efficient. However, for these systems to work efficiently, they need fast and reliable communication and computation, all while managing the limited resources and energy available in robot-embedded sensors. Therefore, this survey focuses on clarifying how various networking and computing decisions impact different aspects of this technology, such as latency, reliability, quality of service (QoS), and scalability. We evaluated the recent research on resource allocation, as well as orchestration in edge, fog, and cloud computing, to have a holistic overview of what has been done so far in this field. Moreover, we analyzed communication technologies, such as 5G, ultrareliable low-latency communication (uRLLC), time-sensitive networking (TSN), software-defined networking (SDN), network function virtualization (NFV), and network slicing, to understand their role in RHCS QoS metrics. Our synthesis finds that: 1) placing perception/control close to the edge consistently decreases end-to-end delay; 2) SDN/NFV and TSN improve predictable and real-time operation in multirobot hospital environments; and 3) learning-based scheduling and offloading often outperform static heuristics in variable workloads. Despite these advancements, we have identified several challenges in the literature, such as limited interoperability between different vendors and a lack of standardized benchmarks for QoS, etc. Therefore, we conducted a comparative analysis to understand how specific design choices influence the QoS metrics of this technology. In addition, we have proposed potential research directions that address the open challenges to ensure the real deployment of this technology.
+KW  - Cloud computing
+KW  - Communication challenges
+KW  - cooperative robotic-enabled healthcare
+KW  - Deep learning
+KW  - deep learning (DL)
+KW  - Measurement
+KW  - Medical services
+KW  - Quality of service
+KW  - quality of service (QoS)
+KW  - Reinforcement learning
+KW  - reinforcement learning (RL)
+KW  - Reliability
+KW  - resource management
+KW  - Reviews
+KW  - Robot sensing systems
+KW  - Robots
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Trajectory Optimization and Power Control for Hierarchical UAV Swarms in 6G Aerial Access Network
+AU  - Jia, Z.
+AU  - He, J.
+AU  - He, L.
+AU  - Sheng, M.
+AU  - Liu, J.
+AU  - Wu, Q.
+AU  - Han, Z.
+PY  - 2026
+DA  - 2026
+T2  - IEEE Transactions on Wireless Communications
+JO  - IEEE Transactions on Wireless Communications
+VL  - 25
+SP  - 3349
+EP  - 3362
+DO  - 10.1109/TWC.2025.3603432
+UR  - https://www.scopus.com/pages/publications/105015879145?origin=resultslist
+AB  - Uncrewed aerial vehicles (UAVs) can serve as aerial base stations (BSs) to extend the ubiquitous connectivity for ground users (GUs) in the sixth-generation (6G) era. However, it is challenging to cooperatively deploy multiple UAV swarms in large-scale remote areas. Hence, in this paper, we propose a hierarchical UAV swarms structure for 6G aerial access networks, where the head UAVs serve as aerial BSs, and tail UAVs (T-UAVs) are responsible for relay. In detail, we jointly optimize the dynamic deployment and trajectory of UAV swarms, which is formulated as a multi-objective optimization problem (MOP) to concurrently minimize the energy consumption of UAV swarms and GUs, as well as the delay of GUs. However, the proposed MOP is a mixed integer nonlinear programming and NP-hard to solve. Therefore, we develop a K-means and Voronoi diagram based area division method, and construct Fermat points to establish connections between GUs and T-UAVs. Then, an improved non-dominated sorting whale optimization algorithm is proposed to seek Pareto optimal solutions for the transformed MOP. Finally, extensive simulations are conducted to verify the performance of proposed algorithms by comparing with baseline mechanisms, resulting in a 50% complexity reduction. © 2002-2012 IEEE.
+KW  - Antennas
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Energy utilization
+KW  - Aerial vehicle
+KW  - Integer programming
+KW  - Swarm intelligence
+KW  - Computational complexity
+KW  - Mobile telecommunication systems
+KW  - Trajectory Planning
+KW  - Nonlinear programming
+KW  - Power control
+KW  - Multiobjective optimization
+KW  - Screening
+KW  - Sorting
+KW  - Optimization algorithms
+KW  - Multi-objective optimization problem
+KW  - 6g aerial access network
+KW  - 6G aerial access network (AAN)
+KW  - Access network
+KW  - Computational geometry
+KW  - Fermat point
+KW  - Graphic methods
+KW  - Improved non-dominated sorting whale optimization algorithm
+KW  - improved non-dominated sorting whale optimization algorithm (INS-WOA)
+KW  - multi-objective optimization problem (MOP)
+KW  - Non-dominated Sorting
+KW  - Pareto principle
+KW  - UAV swarm trajectory planning
+KW  - Unmanned aerial vehicle swarm trajectory planning
+KW  - Voronoi diagram
+KW  - Voronoi diagrams
+ER  - 
+
+TY  - JOUR
+TI  - ConstrucTwin: Digital Twin-Driven Multirobot Construction System Toward Industry 5.0
+AU  - Z. Liu
+AU  - J. Silva
+AU  - R. Zhong
+AU  - Q. Qin
+AU  - N. Roy
+AU  - V. Nan Fernandez-Ayala
+AU  - J. Lesko
+AU  - U. Håkansson
+AU  - S. Sandberg
+AU  - D. V. Dimarogonas
+AU  - J. Gross
+AU  - X. Vincent Wang
+AU  - L. Wang
+PY  - 2026
+DA  - 2026-04
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+JO  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+VL  - 56
+IS  - 4
+SP  - 2924
+EP  - 2939
+DO  - 10.1109/TSMC.2026.3658622
+SN  - 2168-2232
+AB  - Rapid advancements in digitalization and artificial intelligence (AI) have catalyzed the adoption of digital twin technologies in the construction sector, enabling real-time synchronization between virtual models and physical systems. Simultaneously, on-site robotic automation has shown promise for reducing physical workloads, enhancing productivity, and contributing to sustainability goals that are key values of Industry 5.0. However, current digital twin implementations rarely incorporate multirobot construction systems, often relying on single-robot approaches or purely offline simulations. This gap hinders the realization of truly integrated construction environments that combine sensing, data analytics, wireless communications, and multirobot coordination. In response, this article proposes ConstrucTwin, a digital twin-driven multirobot construction framework designed to support complex construction tasks in real-world settings. By combining a 5G communication estimation-involved architecture and a cross-level planning strategy, ConstrucTwin streamlines interactions between physical robots and their digital counterparts. Essential tasks such as motion and task-level planning, as well as remote human-in-the-loop (HIL) oversight, are orchestrated within a single unified architecture. Through case studies involving rebar cage and brick wall construction, we demonstrate how an integrated approach to vision-based servoing and multirobot coordination enhances execution speed, precision, and scalability. The results underscore the system’s potential to advance human-centric, resilient, and sustainable construction, thereby aligning with the broader vision of Industry 5.0.
+KW  - 5G mobile communication
+KW  - Artificial intelligence
+KW  - Digital twin
+KW  - Digital twins
+KW  - Fifth Industrial Revolution
+KW  - Industry 5.0
+KW  - Multi-robot systems
+KW  - multirobot construction
+KW  - Planning
+KW  - Robot kinematics
+KW  - Robots
+KW  - Safety
+KW  - Service robots
+KW  - smart construction
+ER  - 
+
+TY  - JOUR
+TI  - AI-Enabled Digital Twin-Driven Handover and Resource Allocation in Multi-LEO Satellite Networks
+AU  - Y. -T. Li
+AU  - S. -H. Chen
+AU  - K. -T. Feng
+AU  - L. -H. Shen
+AU  - Z. Ding
+AU  - J. -M. Wu
+PY  - 2026
+DA  - 2026-08-15
+T2  - IEEE Internet of Things Journal
+JO  - IEEE Internet of Things Journal
+VL  - 13
+IS  - 16
+SP  - 35905
+EP  - 35922
+DO  - 10.1109/JIOT.2026.3698242
+SN  - 2327-4662
+AB  - Low-Earth orbit (LEO) satellite constellations are emerging as a core enabler of sixth-generation (6G) wireless systems, providing the global coverage and high-capacity connectivity. However, dense multibeam LEO deployments introduce severe interbeam and intersatellite interferences, while rapid orbital motion results in frequent handovers and highly dynamic channels that challenge the real-time optimization. To address these issues, this article has proposed a digital twin (DT)-driven multi-LEO network architecture that integrates the ray-tracing-based virtual simulations with intelligent on-orbit control. Within this framework, we develop a DT-driven efficient handover and multiagent twin delayed deep deterministic policy gradient (DEMAT) scheme, which jointly optimizes beam training, handover, power allocation, and beamwidth adaptation to maximize the energy efficiency (EE) while satisfying user throughput requirements. DEMAT leverages bidirectional DT-LEO parameter exchange and federated-learning (FL)-enhanced agents for cooperative and low-latency resource management. Extensive simulations validate its convergence and scalability under diverse network configurations, such as various time frame intervals and user densities. Notably, DEMAT achieves up to a 59.6% EE improvement over the deep deterministic policy gradient (DDPG) baseline and more than 40% of EE compared with the other DT-based benchmarks, demonstrating superior adaptability and coordination for the next-generation nonterrestrial networks (NTNs).
+KW  - Beams
+KW  - Digital twin (DT)
+KW  - Grounding
+KW  - handover
+KW  - Handover
+KW  - Low earth orbit satellites
+KW  - Low-Earth orbit (LEO) satellite
+KW  - Modeling
+KW  - multiagent deep reinforcement learning (DRL)
+KW  - Ray tracing
+KW  - resource allocation (RA)
+KW  - Resource management
+KW  - Satellites
+KW  - Timing
+KW  - Training
+ER  - 
+
+TY  - JOUR
+TI  - DRL-Based Resource Allocation and Trajectory Planning for NOMA-Enabled Multi-UAV Collaborative Caching 6G Network
+AU  - Qin, P.
+AU  - Fu, Y.
+AU  - Zhang, J.
+AU  - Geng, S.
+AU  - Liu, J.
+AU  - Zhao, X.
+PY  - 2024
+DA  - 2024
+T2  - IEEE Transactions on Vehicular Technology
+JO  - IEEE Transactions on Vehicular Technology
+VL  - 73
+IS  - 6
+SP  - 8750
+EP  - 8764
+DO  - 10.1109/TVT.2024.3357086
+UR  - https://www.scopus.com/pages/publications/85183993740?origin=resultslist
+AB  - Aerialplatform-based network has been invoked as an appealing assistance for terrestrial cellular networks. Caching at edge UAVs is an effective emerging solution for relieving the wireless backhaul congestion and reducing content fetching latency for hotspot areas. This article investigates a non-orthogonal multiple access (NOMA)-enabled multi-UAV collaborative caching network, where the multimedia contents are delivered from UAVs to ground users. UAVs cache popular contents and collaboratively share with each other. The optimization problem of joint caching decision, 3D trajectory planning and spectrum resource allocation is formulated for minimizing the system content retrieving delay. It is an NP-hard mixed integer nonconvex optimization issue with extra difficulty that the content popularity is highly dynamic. To tackle this challenging problem, we decouple the original issue into two subproblems: (1) UAV collaborative caching decision making and (2) joint optimization of UAV trajectory planning, power allocation, and channel reusing. We develop a multi-agent proximal policy optimization (MAPPO)-based algorithm for the former to achieve the maximum weighted content hit ratio and propose a matching-DRL solution for the latter. Numerical evaluations confirm that the proposed approach is capable of rapid convergence and achieves superior performance in terms of content hit ratio, content retrieving delay, and system throughput compared to other benchmark algorithms. © 1967-2012 IEEE.
+KW  - Antennas
+KW  - Unmanned aerial vehicles (UAV)
+KW  - Multi UAV
+KW  - Optimisations
+KW  - Multi agent systems
+KW  - Decision making
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Resource allocation
+KW  - Delay
+KW  - Benchmarking
+KW  - Deep reinforcement learning
+KW  - resource allocation
+KW  - Resources allocation
+KW  - Deep learning
+KW  - Trajectories
+KW  - Integer programming
+KW  - Resource management
+KW  - Trajectory Planning
+KW  - Multiple access
+KW  - Non-orthogonal
+KW  - Non-orthogonal multiple access
+KW  - deep reinforcement learning (DRL)
+KW  - Collaboration
+KW  - NOMA
+KW  - Collaborative caching
+KW  - G-networks
+KW  - Multi-UAV collaborative caching 6 G network
+KW  - Multi-UAV collaborative caching 6G network
+KW  - UAV trajectory planning
+ER  - 
+
+TY  - JOUR
+TI  - SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets Under Limited Communication
+AU  - J. Chen
+AU  - Y. Zhu
+AU  - X. Zhang
+AU  - B. Luo
+AU  - M. Guo
+PY  - 2026
+DA  - 2026
+T2  - IEEE Transactions on Automation Science and Engineering
+JO  - IEEE Transactions on Automation Science and Engineering
+VL  - 23
+SP  - 2339
+EP  - 2360
+DO  - 10.1109/TASE.2025.3643166
+SN  - 1558-3783
+AB  - Robotic fleets such as uncrewed aerial and ground vehicles have been widely used for routine inspections of static environments, where the areas of interest are known and planned in advance. However, in many applications, such areas of interest are unknown and should be identified online during exploration. Thus, this paper considers the problem of simultaneous exploration, inspection of unknown environments and then real-time communication to a mobile ground control station to report the findings. The heterogeneous robots are equipped with different sensors, e.g., long-range lidars for fast exploration and close-range cameras for detailed inspection. Furthermore, global communication is often unavailable in such environments, where the robots can only communicate with each other via ad-hoc wireless networks when they are in close proximity and free of obstruction. This work proposes a novel planning and coordination framework (SLEI3D) that integrates the online strategies for collaborative 3D exploration, adaptive inspection and timely communication (via the intermittent or proactive protocols). To account for uncertainties w.r.t. the number and location of features, a multi-layer and multi-rate planning mechanism is developed for inter-and-intra robot subgroups, to actively meet and coordinate their local plans. The proposed framework is validated extensively via high-fidelity simulations of numerous large-scale missions with up to 48 robots and 384 thousand cubic meters. Hardware experiments of 7 robots are also conducted. Note to Practitioners—This paper is motivated by the challenges of coordinating large-scale heterogeneous fleets for the inspection of large buildings and infrastructure, where heterogeneous UAVs must collaborate to explore unknown environments, identify areas of interest, and more importantly, inspect specific features (such as cracks, leaks, and other anomalies). Furthermore, these features must be relayed back to a control station for further analyses. Existing methods predominantly focuses on exploration tasks and often overlooks the need for close-up inspection. Instead, a hierarchical and flexible framework is proposed to coordinate a group of heterogeneous UAVs online for efficient exploration, inspection and communication, subject to an unknown number and location of features. Instead of relying on an all-to-all communication network, limited communication range and bandwidth are addressed by leveraging intermittent and proactive communication protocols, i.e., to enable exchange of local plans, explored areas, and detected features during online execution. Via extensive simulations in a high-fidelity simulator, the proposed framework is shown to be efficient and reliable for large-scale simultaneous exploration and inspection tasks within various scenes. Robustness to robot failures and communication loss is also demonstrated. Hardware experiments over UGVs and UAVs validate the practical relevance.
+KW  - Robot kinematics
+KW  - Robots
+KW  - Inspection
+KW  - Three-dimensional displays
+KW  - Collision avoidance
+KW  - Collaboration
+KW  - Planning
+KW  - Sensors
+KW  - Protocols
+KW  - Safety
+KW  - Heterogeneous multi-robot system
+KW  - 3D exploration
+KW  - collaborative task planning
+KW  - intermittent communication
+ER  - 
